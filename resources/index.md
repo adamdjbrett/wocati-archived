@@ -12,8 +12,6 @@ post_date: 2012-06-19 21:52:09
 
 [![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
 
-- [WOCATI Archive](https://wocati.org/resources/archive/)
-- [WOCATI Publications](https://wocati.org/resources/archive/publications/)
 - [Home](/)
 - [about](/about/)
   - [bio](/about/bio/)
@@ -43,6 +41,8 @@ post_date: 2012-06-19 21:52:09
     - [2011 communique](/resources/2011-communique/)
     - [2011 participant photos](/resources/2011-participant-photos/)
     - [daily wrap-up reports](/resources/daily-wrap-up-reports/)
+    - [WOCATI Archive](https://wocati.org/resources/archive/)
+    - [WOCATI Publications](https://wocati.org/resources/archive/publications/)
 
 
 
