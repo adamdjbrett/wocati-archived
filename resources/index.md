@@ -2,15 +2,16 @@
 ID: 20
 post_title: Resources
 author: WOCATI
-post_excerpt: ""
+post_excerpt: "Full World Conference of Associations of Theological Institutions (WOCATI) Resources"
 layout: article
 permalink: /resources/
 published: true
 post_date: 2012-06-19 21:52:09
 ---
-## Full WOCATI Resources & Archive
 
 [![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
+
+### Full World Conference of Associations of Theological Institutions (WOCATI) Resources
 
 - [Home](/)
 - [about](/about/)
@@ -61,11 +62,8 @@ post_date: 2012-06-19 21:52:09
 *   [WCC 2013](http://wcc2013.info/ "10th General Assembly of the World Council of Churches 2013")
 *   [World Council of Churches (WCC)](http://oikoumene.org/)
 
-#### Blogroll
 
-*   [Jugaad: A Material Religions Project](https://jugaad.pub/)
-
-#### WOCATI on the web
+### World Conference of Associations of Theological Institutions (WOCATI) on the web
 
 *   [Ministerial Formation](http://www.globethics.net/web/ministerial-formation "WOCATI Journal Ministerial Formation on GlobeTheoLib")
 *   [Scribd](http://www.scribd.com/wocati)
