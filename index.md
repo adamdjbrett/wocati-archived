@@ -7,6 +7,7 @@ post_excerpt: "The main goal of WOCATI is to serve the needs and aspirations of 
 redirect_from:: /home-2/
 published: true
 post_date: 2014-12-09 15:35:31
+share: false
 ---
 
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
