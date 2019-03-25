@@ -10,7 +10,7 @@ post_date: 2012-06-19 22:12:05
 ---
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
-# EXECUTIVE OFFICERS
+## EXECUTIVE OFFICERS
 
 * * *
 

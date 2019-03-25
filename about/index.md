@@ -4,7 +4,6 @@ post_title: About Us
 author: WOCATI
 post_excerpt: "Theological education is a worldwide enterprise fundamental to the mission of the church. In its most immediate and concrete forms, theological education is shaped by the religious, educational, social, political, and historical traditions within which it exists. Theological education is carried out in a world which is increasingly aware of its interdependence and religious plurality. Its context is both local and global and therefore, it can function more effectively within a worldwide framework."
 layout: article
-permalink: /about/
 published: true
 post_date: 2012-06-25 17:49:55
 ---
