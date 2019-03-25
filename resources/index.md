@@ -32,7 +32,7 @@ post_date: 2012-06-19 21:52:09
   - [archive](/resources/archive/)
   - [publications](/resources/publications/)
   - [books](/resources/books/)
-  - [Ministerial Formation Journal Archive](/resources/ministerial-formation)
+  - [Ministerial Formation Journal Archive](/resources/ministerial-formation/)
   - [2011 WOCATI consultation](/resources/2011-wocati-consultation/)
     - [presenter bios](/resources/presenter-bios/)
     - [presentation outlines](/resources/presentation-outlines/)

@@ -18,7 +18,7 @@
   - [books](/resources/books/)
   - [presenter-bios](/resources/presenter-bios/)
   - [presentation-outlines](/resources/presentation-outlines/)
-  - [ministerial-formation](/resources/ministerial-formation)
+  - [ministerial-formation](/resources/ministerial-formation/)
   - [listeners reports](/resources/listeners-reports/)
   - [group-discussion-reports](/resources/group-discussion-reports/)
   - [2011-communique](/resources/2011-communique/)

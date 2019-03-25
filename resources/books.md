@@ -5,6 +5,8 @@ author: adamdjbrett
 post_excerpt: "Participants focused on supporting, enhancing, and assessing the quality of theological education both within regional contexts and across contexts through presentations, roundtable discussions, and breakout sessions. This book is a collection of presentation papers from various regions. We hope that this collection of the consultation papers can be helpful in promoting academic, professional, and ecumenical conversations between and among associations from different contexts and in helping us thoroughly reconsider the role of associations of theological schools in assessing and promoting the quality of theological education."
 layout: article
 permalink: /resources/archive/publications/books/
+featured:
+  image: book-cover.jpg
 published: true
 post_date: 2013-03-09 18:54:50
 redirect_from: /resources/books/

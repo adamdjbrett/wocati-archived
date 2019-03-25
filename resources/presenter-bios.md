@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/presenter-bios/
 published: true
 post_date: 2012-06-29 04:03:49
+redirect_from: /resources/presenter-bios/
 ---
 <a name="top"></a>
 <a href="#Esterline">David Esterline</a>, <a href="#Ruiz">Lester Edwin J. Ruiz</a>, <a href="#Tiwari">Ravi Tiwari</a>, <a href="#Werner">Dietrich Werner</a>
