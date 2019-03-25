@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/2011-participant-photos/
 published: true
 post_date: 2012-06-26 04:52:09
+redirect_from: /resources/2011-participant-photos/
 ---
 *   At the 2011 Consultation, participants from around the globe interacted with one another in a wide variety of activities. These included collective reflection sessions, group discussions, and informal gatherings at meals and tea.
 *   Special thanks to Dr. Victor Nakah for contributing these photos.

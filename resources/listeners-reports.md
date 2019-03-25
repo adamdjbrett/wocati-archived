@@ -7,7 +7,9 @@ layout: article
 permalink: /resources/2011-wocati-consultation/listeners-reports/
 published: true
 post_date: 2012-06-28 04:04:50
-redirect_from: /resources/2011-wocati-consultation/listenerss-reports/
+redirect_from:
+  - /resources/2011-wocati-consultation/listenerss-reports/
+  - /resources/listeners-reports/
 ---
 [Lester J. Ruiz Listener's Report](#Ruiz), [Isabel Apawo Phiri Listener's Report](#Phiri).
 

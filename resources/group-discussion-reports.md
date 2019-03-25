@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/group-discussion-reports/
 published: true
 post_date: 2012-06-28 03:48:29
+redirect_from: /resources/group-discussion-reports/
 ---
 On Tuesday, July 5, 2011, the overall theme was “What Constitutes _Quality_ in Theological Education.”  In the afternoon session, the participants divided into groups and collectively identified important issues from the day’s presentations.
 
