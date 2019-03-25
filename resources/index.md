@@ -8,6 +8,7 @@ permalink: /resources/
 published: true
 post_date: 2012-06-19 21:52:09
 modified: 2019-03-25T11:57:41-04:00
+share: false
 ---
 
 [![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)

@@ -9,6 +9,7 @@ published: true
 post_date: 2012-06-26 04:19:09
 redirect_from: /resources/2011-communique/
 modified: 2019-03-25T11:57:41-04:00
+share: false
 ---
 ## [![](https://wocati.org/wp-content/uploads/2012/06/woclog3.gif "woclog3")](https://wocati.org/wp-content/uploads/2012/06/woclog3.gif)WOCATI 2011 Consultation Communiqué Johannesburg, South Africa, 4 July – 8 July, 2011
 

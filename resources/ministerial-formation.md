@@ -8,6 +8,7 @@ permalink: /resources/archive/publications/ministerial-formation/
 published: true
 post_date: 2012-06-30 00:31:13
 modified: 2019-03-25T11:57:41-04:00
+share: false
 ---
 ## World Council of Churches (WCC) Ministerial Formation Archive
 
