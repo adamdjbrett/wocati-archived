@@ -39,6 +39,23 @@ owner:
   avatar: international-160x160.png # 160x160 px image for author byline
   disqus-shortname:
 
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: "wp-content/uploads"
+    values:
+      image: true
+  - scope:
+      path: "wp-content/uploads"
+    values:
+      pdf: true
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
 
 include:
   - .htaccess
