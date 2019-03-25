@@ -23,28 +23,28 @@ The 2011 Consultation included lively presentations and panel discussions from a
 
 *   Session 3: Quality in Theological Education in Particular and Higher Education in General
 *   Presenter: Dr. Lester Ruiz Moderator: Dr. Isabel Phiri
-*   [Bio of Dr. Ruiz](http://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Ruiz "Lester Ruiz") – [The Question Concerning Quality in Theological Education](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/ruiz-thequestionconcerningqualityintheologicaleducation-110831102245-phpapp01.pdf "Lester J. Ruiz, The Question of *Quality* in Theological Education")
+*   [Bio of Dr. Ruiz](https://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Ruiz "Lester Ruiz") – [The Question Concerning Quality in Theological Education](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/ruiz-thequestionconcerningqualityintheologicaleducation-110831102245-phpapp01.pdf "Lester J. Ruiz, The Question of *Quality* in Theological Education")
 *   Session 4: Quality in Theological Education from an Ecumenical Perspective: Intra- and Inter-religious Issues
 *   Presenter: Dr. Dietrich Werner Moderator: Dr. Isabel Phiri
-*   [Bio of Dr. Werner](http://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Werner "Dietrich Werner") [– Quality in Theological Education](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-Theological-Education-and-Processes-of-Accreditation-for-Quality.pdf "WOCATI Consultation – Theological Education and Processes of Accreditation for Quality – Dietrich Werner (Download Publication)")
+*   [Bio of Dr. Werner](https://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Werner "Dietrich Werner") [– Quality in Theological Education](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-Theological-Education-and-Processes-of-Accreditation-for-Quality.pdf "WOCATI Consultation – Theological Education and Processes of Accreditation for Quality – Dietrich Werner (Download Publication)")
 *   Session 5: Searching for the Ideal of Theological Education: Remembering the Future Presenter: Dr. Namsoon Kang Moderator: Dr. James Amanze
 *   Session 6: Quality in Theological Education: Geopolitical and Socio-cultural Issues Panelists: Drs. Isabel Apawo Phiri, Tinyiko Maluleke,
 *   Sarojini Nadar, Maake Masango Moderator: Dr. James Amanze
-*   Session 7: [Group Discussion](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Group-Discussion-Reports.pdf "2011 WOCATI Consultation – Group Discussion Reports (Download Publication)")
-*   Session 8: [Global Digital Library on Theology and Ecumenism Presenter: Dr. Dietrich Werner](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf "2011 WOCATI Consultation – GlobTheoLib Presentation – Dietrich Werner (Download Publication)")
-*   [Dr. Werner – Global Theological Library Presentation Introduction to GlobeTheoLib](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf "2011 WOCATI Consultation – GlobTheoLib Presentation – Dietrich Werner (Download Publication)"), [Providing Content for GlobeTheoLib](http://www.globalethics.org/)
+*   Session 7: [Group Discussion](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Group-Discussion-Reports.pdf "2011 WOCATI Consultation – Group Discussion Reports (Download Publication)")
+*   Session 8: [Global Digital Library on Theology and Ecumenism Presenter: Dr. Dietrich Werner](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf "2011 WOCATI Consultation – GlobTheoLib Presentation – Dietrich Werner (Download Publication)")
+*   [Dr. Werner – Global Theological Library Presentation Introduction to GlobeTheoLib](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf "2011 WOCATI Consultation – GlobTheoLib Presentation – Dietrich Werner (Download Publication)"), [Providing Content for GlobeTheoLib](http://www.globalethics.org/)
 
 **Wednesday, July 6 – Theme II: Standards for Quality Assurance: Resources, Processes, and Outcomes**
 
 *   Session 9: Standards for Quality Assurance in Africa Presenter: Rev. John Gichimu
 *   Moderator: Dr. Ivan Z. Dimitrov
 *   Gichimu – Standards of Quality Assurance in Africa
-*   [Gichimu – Enhancing Quality Training in AIC](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Gichimu-Enhancing-Quality-Training-in-AICs.pdf "2011 WOCATI Consultation – Enhancing Quality Training in AICs by John Gichimu (Download Publication)")
+*   [Gichimu – Enhancing Quality Training in AIC](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Gichimu-Enhancing-Quality-Training-in-AICs.pdf "2011 WOCATI Consultation – Enhancing Quality Training in AICs by John Gichimu (Download Publication)")
 *   Session 10: Standards for Quality Assurance in Asia Panelist: Dr. Ravi Tiwari, Moderator: Dr. Ivan Z. Dimitrov
-*   [Bio of Dr. Tiwari](http://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Tiwari "Ravi Tiwari") [– Standard of Quality Assurance in Asia](http://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Tiwari-%E2%80%93-Standard-of-Quality-Assurance-in-Asia.pdf "2011 WOCATI Consultation – Standard of Quality Assurance in Asia – Ravi Tiwari (Download Publication)")
+*   [Bio of Dr. Tiwari](https://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Tiwari "Ravi Tiwari") [– Standard of Quality Assurance in Asia](https://wocati.org/wp-content/plugins/wp-publication-archive/includes/openfile.php?file=http|wocati.org/wp-content/uploads/2012/06/Tiwari-%E2%80%93-Standard-of-Quality-Assurance-in-Asia.pdf "2011 WOCATI Consultation – Standard of Quality Assurance in Asia – Ravi Tiwari (Download Publication)")
 *   Session 11: Standards for Quality Assurance in Europe Presenter: Dr. Reinhold Bernhardt Moderator: Dr. Namsoon Kang
 *   Session 12: Standards for Quality Assurance in North America Presenter: Dr. David Esterline Moderator: Dr. James Massey
-*   [Bio of Dr. Esterline](http://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Esterline "Esterline BIo") - [North American Quality Standards in Theological Education by David Esterline](http://wocati.org/wp-content/uploads/2012/06/Esterline-North-American-Quality-Standards-in-Theological-Education.pdf)
+*   [Bio of Dr. Esterline](https://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Esterline "Esterline BIo") - [North American Quality Standards in Theological Education by David Esterline](https://wocati.org/wp-content/uploads/2012/06/Esterline-North-American-Quality-Standards-in-Theological-Education.pdf)
 *   Session 13: Standards for Quality Assurance: Catholic Theological Education Presenter_:_ Dr. Gary Riebe-Estrella Moderator: Dr. James Massey
 *   Session 14: Case Study: Theological Education by Extension Presenter: Dr. Kangwa Mabuluki
 *   Moderator: Dr. Isabel Phiri
@@ -79,10 +79,10 @@ The 2011 Consultation included lively presentations and panel discussions from a
 
 # Presentation Outline, English PDF Archive
 
-*   [2011 WOCATI Consultation - Presentation Listing](http://wocati.org/wp-content/uploads/2012/06/Presentation-Listing.pdf)
-*   [2011 Dietrich Werner - Quality in Theological Education](http://wocati.org/wp-content/uploads/2012/06/Werner-Quality-in-Theological-Education.pdf)
-*   [2011 WOCATI Consultation - GlobTheoLib Presentation - Dietrich Werner](http://wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf)
-*   [2011 WOCATI Consultation - Theological Education and Processes of Accreditation for Quality - Dietrich Werner](http://wocati.org/wp-content/uploads/2012/06/Werner-Theological-Education-and-Processes-of-Accreditation-for-Quality.pdf)
-*   [2010 Edinburgh - Process and Theological Education](http://wocati.org/wp-content/uploads/2012/06/Edinburgh-2010-process-and-theological-education.pdf)
-*   [2011 WOCATI Consultation - Enhancing Quality Training in AICs by John Gichimu](http://wocati.org/wp-content/uploads/2012/06/Gichimu-Enhancing-Quality-Training-in-AICs.pdf)
-*   [2011 WOCATI Consultation - North American Quality Standards in Theological Education by David Esterline](http://wocati.org/wp-content/uploads/2012/06/Esterline-North-American-Quality-Standards-in-Theological-Education.pdf)
+*   [2011 WOCATI Consultation - Presentation Listing](https://wocati.org/wp-content/uploads/2012/06/Presentation-Listing.pdf)
+*   [2011 Dietrich Werner - Quality in Theological Education](https://wocati.org/wp-content/uploads/2012/06/Werner-Quality-in-Theological-Education.pdf)
+*   [2011 WOCATI Consultation - GlobTheoLib Presentation - Dietrich Werner](https://wocati.org/wp-content/uploads/2012/06/Werner-GlobTheoLib-Presentation.pdf)
+*   [2011 WOCATI Consultation - Theological Education and Processes of Accreditation for Quality - Dietrich Werner](https://wocati.org/wp-content/uploads/2012/06/Werner-Theological-Education-and-Processes-of-Accreditation-for-Quality.pdf)
+*   [2010 Edinburgh - Process and Theological Education](https://wocati.org/wp-content/uploads/2012/06/Edinburgh-2010-process-and-theological-education.pdf)
+*   [2011 WOCATI Consultation - Enhancing Quality Training in AICs by John Gichimu](https://wocati.org/wp-content/uploads/2012/06/Gichimu-Enhancing-Quality-Training-in-AICs.pdf)
+*   [2011 WOCATI Consultation - North American Quality Standards in Theological Education by David Esterline](https://wocati.org/wp-content/uploads/2012/06/Esterline-North-American-Quality-Standards-in-Theological-Education.pdf)

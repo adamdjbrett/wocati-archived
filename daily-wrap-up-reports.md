@@ -54,4 +54,4 @@ At the end of the Tuesday and Wednesday sessions (July 5 & 6, respectively), the
 
 * * *
 
-[2011 Consultation - Daily Wrap-Up Reports - English, PDF](http://wocati.org/wp-content/uploads/2012/06/Daily-Wrap-Up-Reports.pdf)
+[2011 Consultation - Daily Wrap-Up Reports - English, PDF](https://wocati.org/wp-content/uploads/2012/06/Daily-Wrap-Up-Reports.pdf)

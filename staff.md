@@ -8,26 +8,26 @@ permalink: /about/staff/
 published: true
 post_date: 2012-06-25 18:12:50
 ---
-[![World Conference of Associated Theological Institutions](http://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](http://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
+[![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
 # CONSULTANTS
 
 * * *
 
-[![](http://wocati.org/wp-content/uploads/2012/06/Aleshire-300-dpi.jpg "Daniel Aleshire - ATS President")](http://wocati.org/wp-content/uploads/2012/06/Aleshire-300-dpi.jpg)
+[![](https://wocati.org/wp-content/uploads/2012/06/Aleshire-300-dpi.jpg "Daniel Aleshire - ATS President")](https://wocati.org/wp-content/uploads/2012/06/Aleshire-300-dpi.jpg)
 
 - **Consultant**
 - Dr. Daniel O. Aleshire, _ATS_ Phone: +1-412-788-6505 Email: ats@ats.org Website: [ats.org](http://www.ats.org)
 
      
 
-[![](http://wocati.org/wp-content/uploads/2012/06/dietrichwerner-120x180.jpg "dietrichwerner 120x180")](http://wocati.org/wp-content/uploads/2012/06/dietrichwerner-120x180.jpg)
+[![](https://wocati.org/wp-content/uploads/2012/06/dietrichwerner-120x180.jpg "dietrichwerner 120x180")](https://wocati.org/wp-content/uploads/2012/06/dietrichwerner-120x180.jpg)
 - **Consultant**
 - Dr. Dietrich Werner, _ETE/WCC_ Phone: +0041-22-9607342 Email: dietrich.werner@wcc-coe.org
 
        
 
-[![](http://wocati.org/wp-content/uploads/2012/06/Petros_Vassiliadis.jpg "Petros_Vassiliadis")](http://wocati.org/wp-content/uploads/2012/06/Petros_Vassiliadis.jpg)
+[![](https://wocati.org/wp-content/uploads/2012/06/Petros_Vassiliadis.jpg "Petros_Vassiliadis")](https://wocati.org/wp-content/uploads/2012/06/Petros_Vassiliadis.jpg)
 - **President**
 - Petros Vassiliadis Office: (+30) 2310 996931 E-mail: pv@theo.auth.gr
 
@@ -35,7 +35,7 @@ post_date: 2012-06-25 18:12:50
 
 # STAFF
 
-  [![](http://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg "adam_dj_brett")](http://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg)
+  [![](https://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg "adam_dj_brett")](https://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg)
 
 - **WOCATI – Web Administrator**
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")

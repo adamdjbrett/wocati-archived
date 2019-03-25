@@ -8,11 +8,11 @@ permalink: /members/
 published: true
 post_date: 2012-06-19 21:56:49
 ---
-[![World Conference of Associated Theological Institutions](http://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](http://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png) [Africa](#africa), [Asia](#asia), [Caribbean](#caribbean), [South America](#la), [North America](#na), [Middle East](#me), [Pacific / Oceania](#po)
+[![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png) [Africa](#africa), [Asia](#asia), [Caribbean](#caribbean), [South America](#la), [North America](#na), [Middle East](#me), [Pacific / Oceania](#po)
 
 * * *
 
-# Africa[![WOCATI - Africa Map](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
+# Africa[![WOCATI - Africa Map](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
 
  
 
@@ -60,7 +60,7 @@ Physical address: Instituto Universitario ISEDET Camacuá 252 C1406DOF Argentina
 
 # Asia
 
-[![WOCATI - ASia](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif "Asia")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif)
+[![WOCATI - ASia](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif "Asia")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif)
 
 **The Association for Theological Education in South East Asia (ATESEA)**
 
@@ -100,7 +100,7 @@ Physical Address: Methodist Theological University 120-701, Naengcheong Dong 31,
 
  
 
-**Caribbean Association of Theological Schools (CATS)[![](http://wocati.org/wp-content/uploads/2012/06/carib.gif "Central America")](http://wocati.org/wp-content/uploads/2012/06/carib.gif)**
+**Caribbean Association of Theological Schools (CATS)[![](https://wocati.org/wp-content/uploads/2012/06/carib.gif "Central America")](https://wocati.org/wp-content/uploads/2012/06/carib.gif)**
 
 c/o The Chairman, Codrington College St. John, Barbados, W.I. Contact: Dr. Noel Titus Telephone: 246.423.1140 Fax: 246.423.1592 E-mail: codrington@sunbeach.net
 
@@ -110,7 +110,7 @@ c/o The Chairman, Codrington College St. John, Barbados, W.I. Contact: Dr. Noel 
 
 # Europe
 
-**[![WOCATI - Europe](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif "Europe")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif)Association of Centres of Adult Theological Education, Great Britain & Ireland**
+**[![WOCATI - Europe](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif "Europe")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif)Association of Centres of Adult Theological Education, Great Britain & Ireland**
 
 Association of Theological and Religious Teachers in Eastern and Central Europe (ARTEEE) Dr. Fedor Kozyrev (Executive secretary) Post Box 31 191002 Str. Petersburg Russia
 
@@ -134,7 +134,7 @@ Physical address: Somerset Road, Edgbaston, Birmingham, B15 2QH Contact person: 
 
 # Middle East
 
-[![WOCATI - Middle East](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif "Middle East")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif) [](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif)
+[![WOCATI - Middle East](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif "Middle East")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif) [](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif)
 
 **Association of Theological Institutes in the Middle East (ATIME)**
 
@@ -146,7 +146,7 @@ Magdi S. Gendi, Executive Secretary Email: mgendi@etsc.org
 
 # North America
 
-[![WOCATI - North America](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif "North America")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif)
+[![WOCATI - North America](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif "North America")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif)
 
 **American Theological Library Association (ATLA)**
 
@@ -168,7 +168,7 @@ Physical Address: 10 Summit Park Drive Pittsburgh, PA 15275 USA Contact person: 
 
 # South America
 
-[![WOCATI - Latin America](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif "Latin America")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif)
+[![WOCATI - Latin America](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif "Latin America")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif)
 
 **Asociacion Latinoamericana de Instituciones de Educacion Teologica (ALIET)**
 
@@ -190,7 +190,7 @@ Rua Rego Freitas, 530, F-13, 01220 Sao Paulo, SP, Brasil Telephone: 412.788.6505
 
 # Pacific / Oceania
 
-**[![WOCATI - Pacific](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif "Pacific")](http://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif)South Pacific Association of Theological Schools (SPATS)**
+**[![WOCATI - Pacific](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif "Pacific")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif)South Pacific Association of Theological Schools (SPATS)**
 
 Physical Address: 30 Gardiner Road, Nasese, Suva P.O. Box 2426, Government Buildings Suva Fiji Contact person(s): Rusiate Tuidrakulu, (General Secretary) Telephone: (679) 330-3924 or 330-1942 Fax (679) 330-7005 E-mail: info@spats.org.fj or gensec@spats.org.fj or admin@spats.org.fj Website: [www.spats.org.fj](http://www.spats.org.fj)
 

@@ -78,4 +78,4 @@ While I am somewhat skeptical about the capacity of theological institutions inc
 
 # English Language PDF's
 
-[WOCATI Consultation closing report by Isabel A. Phiri](http://wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](http://wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.
+[WOCATI Consultation closing report by Isabel A. Phiri](https://wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](https://wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.

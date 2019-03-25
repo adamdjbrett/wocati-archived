@@ -10,10 +10,10 @@ post_date: 2012-06-19 21:52:09
 ---
 # Full WOCATI Resources & Archive
 
-[![wocati](http://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](http://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
+[![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
 
-*   [WOCATI Archive](http://wocati.org/resources/archive/)
-*   [WOCATI Publications](http://wocati.org/resources/archive/publications/)
+*   [WOCATI Archive](https://wocati.org/resources/archive/)
+*   [WOCATI Publications](https://wocati.org/resources/archive/publications/)
 
 ## Additional Resources
 
