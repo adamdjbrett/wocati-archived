@@ -25,5 +25,5 @@
   - [2011-participant-photos](/resources/2011-participant-photos/)
   - [2011-wocati-consultation](/resources/2011-wocati-consultation/)
   - [daily-wrap-up-reports](/resources/daily-wrap-up-reports/)
-  - [wocati-newsletter](/resources/wocati-newsletter/wocati-newsletter/)
+  - [wocati-newsletter](/resources/wocati-newsletter/)
   - [Ministerial Formation Journal Archive](/resources/archive/publications/ministerial-formation/)

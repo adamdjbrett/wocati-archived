@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/archive/publications/wocati-newsletter/
 published: true
 post_date: 2012-06-30 00:26:52
+redirect_from: /resources/wocati-newsletter/
 ---
 ## PDF Archive of the WOCATI Newsletter
 
