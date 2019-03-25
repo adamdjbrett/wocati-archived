@@ -8,11 +8,12 @@ permalink: /members/
 published: true
 post_date: 2012-06-19 21:56:49
 ---
-[![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png) [Africa](#africa), [Asia](#asia), [Caribbean](#caribbean), [South America](#la), [North America](#na), [Middle East](#me), [Pacific / Oceania](#po)
+[![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
-* * *
+{% include toc.html %}
 
-# Africa[![WOCATI - Africa Map](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
+
+## Africa[![WOCATI - Africa Map](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
 
  
 
@@ -56,9 +57,9 @@ Physical address: Instituto Universitario ISEDET Camacuá 252 C1406DOF Argentina
 
 [back to top](#top)
 
-* * *
 
-# Asia
+
+## Asia
 
 [![WOCATI - ASia](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif "Asia")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_8cbf7b843b.gif)
 
@@ -94,9 +95,9 @@ Physical Address: Methodist Theological University 120-701, Naengcheong Dong 31,
 
 [back to top](#top)
 
-* * *
 
-# Caribbean
+
+## Caribbean
 
  
 
@@ -106,9 +107,9 @@ c/o The Chairman, Codrington College St. John, Barbados, W.I. Contact: Dr. Noel 
 
 [back to top](#top)
 
-* * *
 
-# Europe
+
+## Europe
 
 **[![WOCATI - Europe](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif "Europe")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_9823968df9.gif)Association of Centres of Adult Theological Education, Great Britain & Ireland**
 
@@ -130,9 +131,9 @@ Physical address: Somerset Road, Edgbaston, Birmingham, B15 2QH Contact person: 
 
 [back to top](#top)
 
-* * *
 
-# Middle East
+
+## Middle East
 
 [![WOCATI - Middle East](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif "Middle East")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif) [](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicC_29be05186e.gif.gif)
 
@@ -142,9 +143,9 @@ Magdi S. Gendi, Executive Secretary Email: mgendi@etsc.org
 
 [back to top](#top)
 
-* * *
 
-# North America
+
+## North America
 
 [![WOCATI - North America](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif "North America")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_6350b92844.gif)
 
@@ -162,11 +163,11 @@ Website: [www.atfe.org](http://atfe.org/)
 
 Physical Address: 10 Summit Park Drive Pittsburgh, PA 15275 USA Contact person: Chris A. Meinzer Telephone: 412.788.6505 Fax: 412.788.6510 E-mail: ats@ats.edu Website: [http://www.ats.edu](http://www.ats.edu)
 
-[back to top](#top)
 
-* * *
 
-# South America
+
+
+## South America
 
 [![WOCATI - Latin America](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif "Latin America")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_0baa2b60a7.gif)
 
@@ -186,9 +187,9 @@ Rua Rego Freitas, 530, F-13, 01220 Sao Paulo, SP, Brasil Telephone: 412.788.6505
 
 [back to top](#top)
 
-* * *
 
-# Pacific / Oceania
+
+## Pacific / Oceania
 
 **[![WOCATI - Pacific](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif "Pacific")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_7a5c4f3eb2.gif)South Pacific Association of Theological Schools (SPATS)**
 
@@ -208,8 +209,8 @@ Physical Address: Post Office Box 2 BENDIGO Victoria 3552 Australia Contact pers
 
 Physical Address: Knox Centre for Ministry and Leadership, Knox College, Arden Street, Dunedin 9001, New Zealand Contact person(s): Dr. Kevin Ward Telephone: 0064.3.473 0107 E-mail: kward@knoxcollege.ac.nz Website: [http://www.nzats.godzone.net.nz](http://www.nzats.godzone.net.nz)
 
-[back to top](#top)
 
-* * *
+
+
 
 [WCC list of WOCATI members and affiliated colleges](http://www.oikoumene.org/en/programmes/education-and-ecumenical-formation/ecumenical-theological-education/wcc-partners-in-theological-education/international-directory-of-theological-schools/wocati-members-and-colleges-affiliated-to-wocati.html "WCC - List of WOCATI members and Affiliates")
