@@ -57,10 +57,9 @@ post_date: 2012-06-19 21:52:09
 *   [NABPR](http://nabpr.org/)
 *   [Related Organizations](http://www.ats.edu/resources/related-organizations "Associations of Theological Schools (ATS) – Related Organizations")
 *   [Religion CFP](https://relcfp.tumblr.com/)
-*   [W3 EDGE, Optimization Products for WordPress](http://www.w3-edge.com/wordpress-plugins/)
 *   [Wabash Internet Guide to Religion](http://www.wabashcenter.wabash.edu/resources/result-browse.aspx?topic=680&pid=668 "Wabash Internet Guide to Religion")
-*   [WCC 2013](http://wcc2013.info/ "10th General Assembly of the World Council of Churches (WCC) 2013")
-*   [World Council of Churches](http://oikoumene.org/)
+*   [WCC 2013](http://wcc2013.info/ "10th General Assembly of the World Council of Churches 2013")
+*   [World Council of Churches (WCC)](http://oikoumene.org/)
 
 #### Blogroll
 
