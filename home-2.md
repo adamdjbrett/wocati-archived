@@ -7,7 +7,7 @@ post_excerpt: "The main goal of WOCATI is to serve the needs and aspirations of 
 layout: home
 image:
   feature: /wp-content/uploads/2012/06/map-colour-layers.png
-permalink: /home-2/
+redirect_from:: /home-2/
 published: true
 post_date: 2014-12-09 15:35:31
 ---
