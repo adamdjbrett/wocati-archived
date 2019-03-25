@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: article
 permalink: /
 post_title: Home
 author: WOCATI
