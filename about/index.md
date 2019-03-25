@@ -11,13 +11,12 @@ post_date: 2012-06-25 17:49:55
 {% include toc.html %}
 
 # World Conference of Associations of Theological Institutions (WOCATI) Theological Education Network
+# Constitution and Bylaws
 
-## Constitution and Bylaws
 
+## CONSTITUTION
 
-### CONSTITUTION
-
-#### 1\. PREAMBLE
+### 1\. PREAMBLE
 
 *   1.1. Theological education is a worldwide enterprise fundamental to the mission of the church. In its most immediate and concrete forms, theological education is shaped by the religious, educational, social, political, and historical traditions within which it exists. Theological education is carried out in a world which is increasingly aware of its interdependence and religious plurality. Its context is both local and global and therefore, it can function more effectively within a worldwide framework.
 *   1.2. These characteristics of theological education have led theological institutions to commit themselves to closer cooperation at local, national, and regional levels. In the late 80s, due to initiatives in the Ecumenical Theological Education (ETE) of the WCC, it was seen as appropriate that a global network and organization be established to serve, support, and enhance theological education in its constituent parts. To this end, in 1989 the World Conference of Associations of Theological Institutions (WOCATI) was established and held its inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19th June, 1989. The members constituting WOCATI join themselves together for the purpose of advancing their shared vision, purpose, and common cause.
@@ -25,13 +24,13 @@ post_date: 2012-06-25 17:49:55
 
 
 
-#### 2\. NAME
+### 2\. NAME
 
 *   The name of this organization is: WORLD CONFERENCE OF ASSOCIATIONS OF THEOLOGICAL INSTITUTIONS (hereafter WOCATI) - Theological Education Network. WOCATI is organized according to its own constitution and functions according to its self-defined purposes and authority.
 
 
 
-##### 3\. ORGANIZATIONAL IDENTITY
+#### 3\. ORGANIZATIONAL IDENTITY
 
 *   3.1.WOCATI includes in its membership
     *   a) Regional associations of theological schools which are engaged in the graduate and postgraduate studies of theology and contribute to the quality assurance of higher theological education;
@@ -43,7 +42,7 @@ post_date: 2012-06-25 17:49:55
 
 
 
-##### 4\. PURPOSES
+#### 4\. PURPOSES
 
 WOCATI is organized according to the provisions contained herein for the following purposes:
 
@@ -56,7 +55,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-##### 5\. MEMBERSHIP
+#### 5\. MEMBERSHIP
 
 *   5.1. Basis of Full Membership
 
@@ -76,7 +75,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-####  6\. ASSOCIATE MEMBERSHIP
+###  6\. ASSOCIATE MEMBERSHIP
 
 *   6.1. The following organizations, consortia, or networks which have a substantial interest and involvement in theological education and global networking for theological education can apply for associated membership:
     *   6.1.1. Associations of theological schools and colleges, which are engaged in non-formal theological education and other levels of theological or Christian formation;
@@ -89,7 +88,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-#### 7\. ASSEMBLY
+### 7\. ASSEMBLY
 
 *   7.1. The Assembly of WOCATI
     *   WOCATI shall convene an Assembly at least once every four tosix years at such time as the Executive Committee may determine with notice sent to member associations well in advance.
@@ -106,7 +105,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-#### 8\. EXECUTIVE COMMITTEE, WORKING GROUPS, AND STAFF
+### 8\. EXECUTIVE COMMITTEE, WORKING GROUPS, AND STAFF
 
 *   8.1 Executive Committee: Composition
     *   8.1.1. WOCATI shall elect a seven-member Executive Committee from the representatives of the full membership, composed of
@@ -136,25 +135,25 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-#### 9\. FINANCES
+### 9\. FINANCES
 
 *   WOCATI will be funded by the fees and dues of its members according to the by-laws, and by the grants and donations received for the specific purposes. \[B2.2.1, 2; B5.1\]
 
 
 
-#### 10\. APPEALS
+### 10\. APPEALS
 
 *   Any member association may appeal for reconsideration if it is felt that WOCATI may have taken actions adverse to its well-being. An appeal shall be conducted in accordance with procedures as specified in the bylaws. \[B5.1\]
 
 
 
-#### 11\. BYLAWS
+### 11\. BYLAWS
 
 *   By-laws are established in order to guide the work and operating of WOCATI in accordance with the Constitution. \[B6.1,2\]
 
 
 
-#### 12\. AMENDMENTS
+### 12\. AMENDMENTS
 
 *   12.1. This Constitution may be amended by a two-thirds majority vote of full WOCATI members. Each member has one vote. Votes can be given either by representatives present at an Assembly or by postal ballot. Any proposed amendments to the Constitution should be given to the full members with one year’s notice.
 *   12.2. It shall be the duty of the Secretary to include in the call for any meeting any amendment or review of membership standards proposed in writing by three member associations.
@@ -163,7 +162,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-### BYLAWS
+## BYLAWS
 
 (The numbers in brackets \[ \] refer to articles in the Constitution)
 
@@ -222,6 +221,8 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 _Adopted by WOCATI (The World Conference of Associations of Theological Institutions) at its Inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19<sup>th</sup> June, 1989 , amended at the Nairobi Congress on 3<sup>rd</sup> _July, 1996 and by the constitutional revision process after the WOCATI Congress in Greece by the WOCATI Executive Meeting in Princeton Theological Seminary 17-20 March 2009, approved by the members of WOCATI May 2010._
+
+## Download the World Conference of Associations of Theological Institutions (WOCATI)  Constitution
 - [WOCATI Constitution 2010](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Constitution-2010_rev2.pdf)
 
 
