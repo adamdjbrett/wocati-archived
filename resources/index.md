@@ -22,7 +22,7 @@ post_date: 2012-06-19 21:52:09
   - [the future of ecumenism](/about/the-future-of-ecumenism/)
   - Posts
     - [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)  
-- [contact](contact)
+- [contact](/contact/)
 - [members](/members/)
 - [join](/members/join/)
 - [work](/work/)

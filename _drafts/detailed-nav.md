@@ -7,7 +7,7 @@
   - [the future of ecumenism](/about/the-future-of-ecumenism/)
   - Posts
     - [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)  
-- [contact](contact)
+- [contact](/contact/)
 - [members](/members/)
 - [join](/members/join/)
 - [work](/work/)
