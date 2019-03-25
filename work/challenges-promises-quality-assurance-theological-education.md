@@ -10,7 +10,7 @@ published: true
 post_date: 2016-09-05 23:58:32
 redirect_from: /9780615770888/
 ---
- ![[2013 WOCATI Book Cover](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2-677x1024.png)](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2.png)
+ ![[2013 WOCATI Book Cover](2013-WOCATI-cover-image-512.png)](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2.png)
 
 ## _**Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires**_ – By WOCATI
 

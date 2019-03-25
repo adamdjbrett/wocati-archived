@@ -3,7 +3,7 @@
 title: "WOCATI"
 description: "World Conference of Associated Theological Institutions (WOCATI) is a global network to serve, support, and enhance theological education around the World."
 logo: international-120x120.png
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: teaser.png
 locale: en-US
 url: https://wocati.org
 feed:
