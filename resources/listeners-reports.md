@@ -4,12 +4,12 @@ post_title: 'Listeners&#8217; Reports'
 author: WOCATI
 post_excerpt: ""
 layout: article
-permalink: /resources/2011-wocati-consultation/listeners-reports/
+permalink: /resources/listeners-reports/
 published: true
 post_date: 2012-06-28 04:04:50
 redirect_from:
   - /resources/2011-wocati-consultation/listenerss-reports/
-  - /resources/listeners-reports/
+  - /resources/2011-wocati-consultation/listeners-reports/
 ---
 [Lester J. Ruiz Listener's Report](#Ruiz), [Isabel Apawo Phiri Listener's Report](#Phiri).
 
