@@ -13,6 +13,17 @@ post_date: 2012-06-26 04:52:09
 
 {% for image in site.static_files %}
   {% if image.path contains 'wp-content/uploads/2012/06/p' %}
-    ![2014 event photos]({{ image.path }})
+    ![event photos]({{ image.path }})
   {% endif %}
 {% endfor %}
+
+
+### 2011 key pages
+
+*   [Communique](/resources/2011-wocati-consultation/2011-communique/)
+*   [Daily Wrap Up Reports](/resources/2011-wocati-consultation/daily-wrap-up-reports/)
+*   [Group Discussion Reports](/resources/2011-wocati-consultation/group-discussion-reports/)
+*   [Listeners' Reports](/resources/2011-wocati-consultation/listenerss-reports/)
+*   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
+*   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
+*   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)

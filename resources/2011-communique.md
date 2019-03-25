@@ -65,3 +65,14 @@ Drafting Committee:
 *   [2011 WOCATI Communique English PDF](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique.pdf "2011 WOCATI Communique English PDF").
 *   [2011 WOCATI Consultation Communique PDF in French](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-in-French.pdf)
 *   [2011 WOCATI Consultation Communique PDF in Korean](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-Korean.pdf)
+
+
+### 2011 key pages
+
+*   [Communique](/resources/2011-wocati-consultation/2011-communique/)
+*   [Daily Wrap Up Reports](/resources/2011-wocati-consultation/daily-wrap-up-reports/)
+*   [Group Discussion Reports](/resources/2011-wocati-consultation/group-discussion-reports/)
+*   [Listeners' Reports](/resources/2011-wocati-consultation/listenerss-reports/)
+*   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
+*   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
+*   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)

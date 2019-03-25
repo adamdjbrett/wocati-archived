@@ -48,4 +48,15 @@ On Tuesday, July 5, 2011, the overall theme was “What Constitutes _Quality_ in
 2.  Theology has a public role to play in society.  There is need to communicate critical methodological skills in theological education that will enable students to address and articulate meaningfully the issues they confront in their societies/contexts.
 3.  Theological education should be sensitive to issues that are faced by the disadvantaged in society.  Here we quote Prof. G. West who says, “The issue is not sensitivity to the disadvantaged but commitment to the disadvantaged.”  In other words sensitivity to the situation of the disadvantaged should be complemented by commitment to the same.
 
-[2011 WOCATI Consultation - Group Discussion Reports PDF, English](https://wocati.org/wp-content/uploads/2012/06/Group-Discussion-Reports.pdf)
+[&#10515; 2011 WOCATI Consultation - Group Discussion Reports PDF, English](https://wocati.org/wp-content/uploads/2012/06/Group-Discussion-Reports.pdf)
+
+
+### 2011 key pages
+
+*   [Communique](/resources/2011-wocati-consultation/2011-communique/)
+*   [Daily Wrap Up Reports](/resources/2011-wocati-consultation/daily-wrap-up-reports/)
+*   [Group Discussion Reports](/resources/2011-wocati-consultation/group-discussion-reports/)
+*   [Listeners' Reports](/resources/2011-wocati-consultation/listenerss-reports/)
+*   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
+*   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
+*   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)

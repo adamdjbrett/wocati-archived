@@ -46,3 +46,14 @@ David’s research interests include issues of race and culture, power and privi
 Dietrich Werner is an ordained pastor of the Northelbian Lutheran Church in North Germany, born 1956. He has served as a lecturer in missiology, ecumenism and World Christianity both in Germany and in India (Ecumenical Institute University of Bochum, Missionsacademy University of Hamburg, Christian Jensen Kolleg Breklum, UTC Bangalore). He has published widely in the area of missiology, history of Christian mission, ecumenism and theological education and for many years is closely related both to Bossey Ecumenical Institute, Switzerland and Commission on Theological Education of EMW, Hamburg. Since 2007 he is heading the Programme on Ecumenical Theological Education in the World Council of Churches in Geneva (ETE) and has coordinated the international study and research process on theological education which was part of the Edinburgh 2010 process. He is married and has five children.
 
 <a href="#top"> back to top</a>
+
+
+### 2011 key pages
+
+*   [Communique](/resources/2011-wocati-consultation/2011-communique/)
+*   [Daily Wrap Up Reports](/resources/2011-wocati-consultation/daily-wrap-up-reports/)
+*   [Group Discussion Reports](/resources/2011-wocati-consultation/group-discussion-reports/)
+*   [Listeners' Reports](/resources/2011-wocati-consultation/listenerss-reports/)
+*   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
+*   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
+*   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)

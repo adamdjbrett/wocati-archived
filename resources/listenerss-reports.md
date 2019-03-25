@@ -4,9 +4,10 @@ post_title: 'Listeners&#8217; Reports'
 author: WOCATI
 post_excerpt: ""
 layout: article
-permalink: /resources/2011-wocati-consultation/listenerss-reports/
+permalink: /resources/2011-wocati-consultation/listeners-reports/
 published: true
 post_date: 2012-06-28 04:04:50
+redirect_from: /resources/2011-wocati-consultation/listenerss-reports/
 ---
 [Lester J. Ruiz Listener's Report](#Ruiz), [Isabel Apawo Phiri Listener's Report](#Phiri).
 
@@ -78,4 +79,15 @@ While I am somewhat skeptical about the capacity of theological institutions inc
 
 # English Language PDF's
 
-[WOCATI Consultation closing report by Isabel A. Phiri](https://wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](https://wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.
+[&#10515; WOCATI Consultation closing report by Isabel A. Phiri](https://wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](https://wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.
+
+
+### 2011 key pages
+
+*   [Communique](/resources/2011-wocati-consultation/2011-communique/)
+*   [Daily Wrap Up Reports](/resources/2011-wocati-consultation/daily-wrap-up-reports/)
+*   [Group Discussion Reports](/resources/2011-wocati-consultation/group-discussion-reports/)
+*   [Listeners' Reports](/resources/2011-wocati-consultation/listenerss-reports/)
+*   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
+*   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
+*   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)
