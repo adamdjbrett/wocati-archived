@@ -8,7 +8,7 @@ permalink: /resources/archive/publications/ministerial-formation/
 published: true
 post_date: 2012-06-30 00:31:13
 ---
-## Ministerial Formation Archive
+## World Council of Churches (WCC) Ministerial Formation Archive
 
 *   [&#10515; Ministerial Formation, issue 90, July 2000](https://wocati.org/wp-content/uploads/2012/06/mf090.pdf)
 *   [&#10515; Ministerial Formation, issue 91, October 2000](https://wocati.org/wp-content/uploads/2012/06/mf091.pdf)

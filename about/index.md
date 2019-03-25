@@ -7,12 +7,10 @@ layout: article
 published: true
 post_date: 2012-06-25 17:49:55
 ---
-- [about](/about/)
-- [staff](/about/staff/)
 
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
- 
+ {% include toc.html %}
 
 * * *
 
@@ -243,4 +241,4 @@ _Adopted by WOCATI (The World Conference of Associations of Theological Institut
   - [staff](/about/staff/)
   - [the future of ecumenism](/about/the-future-of-ecumenism/)
   - Posts
-    - [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/) 
+    - [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
