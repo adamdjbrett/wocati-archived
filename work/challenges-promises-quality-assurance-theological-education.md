@@ -13,12 +13,12 @@ redirect_from: /9780615770888/
 
 # Book Cover
 ![2013 WOCATI Book Cover](/images/2013-WOCATI-cover-image-512.png)
-
- {% include toc.html %}
-
  _[&#10515; Download a high resolution version of the book cover](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2.png)_
 
-## _**Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires**_ – By WOCATI
+{% include toc.html %}
+
+
+## _**Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires**_
 
 ### With essays by: David Esterline, Dietrich Werner, Isabel Apawo Phiri, John Gichimu, Lester Edwin J. Ruiz, Namsoon Kang, Petros Vassiliadis, Priscille Djomhoue, Ravi Tiwari, Reinhold Bernhardt, and Simon K. Dossou.
 #### Published by WOCATI on (March 9, 2013)
