@@ -8,7 +8,7 @@ permalink: /resources/archive/
 published: true
 post_date: 2012-06-30 00:25:46
 ---
-# Full WOCATI Archive
+## Complete list of PDFS related to WOCATI
 
 [![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
 
