@@ -1,6 +1,6 @@
----
+actives---
 ID: 1172
-post_title: Work
+post_title: Projects and Work by WOCATI
 author: adamdjbrett
 post_excerpt: "Members of WOCATI published a groundbreaking book entitled Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires."
 layout: article
@@ -10,6 +10,15 @@ featured:
 published: true
 post_date: 2016-09-06 00:09:47
 ---
+WOCATI members have been involved in a variety of publishing activities like:
+- [books](/resources/books/)
+  - [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](https://wocati.org/challenges-promises-quality-assurance-theological-education/)
+- [publications](/resources/publications/)
+  - [Newsletter](/resources/wocati-newsletter/wocati-newsletter/)
+  - [Ministerial Formation Journal Archive](/resources/archive/publications/ministerial-formation/)
+
+
+
 ## WOCATI Book
 
 March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](https://wocati.org/challenges-promises-quality-assurance-theological-education/) with essays by: David Esterline, Dietrich Werner, Isabel Apawo Phiri, John Gichimu, Lester Edwin J. Ruiz, Namsoon Kang, Petros Vassiliadis, Priscille Djomhoue, Ravi Tiwari, Reinhold Bernhardt, and Simon K. Dossou.
