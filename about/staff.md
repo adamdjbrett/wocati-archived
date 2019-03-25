@@ -35,7 +35,7 @@ post_date: 2012-06-25 18:12:50
 
 # STAFF
 
-  [![](https://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg "adam_dj_brett")](https://wocati.org/wp-content/uploads/2012/06/adam_dj_brett.jpg)
+  [![](/images/adamdjbrett.jpg "adam_dj_brett")](/images/adamdjbrett.jpg)
 
 - **WOCATI – Web Administrator**
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")
