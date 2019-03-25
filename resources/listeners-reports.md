@@ -11,9 +11,9 @@ redirect_from:
   - /resources/2011-wocati-consultation/listenerss-reports/
   - /resources/2011-wocati-consultation/listeners-reports/
 ---
-
 {% include toc.html %}
-* * *
+
+# Listeners Reports
 
 ## **Reflections on the “Challenges and Promises of _Quality_ Assurance in Theological Education: Ecumenical and Multi-Contextual Inquiries." by Lester Edwin J. Ruiz**
 
