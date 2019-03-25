@@ -18,7 +18,6 @@ WOCATI members have been involved in a variety of publishing activities like:
   - [Ministerial Formation Journal Archive](/resources/archive/publications/ministerial-formation/)
 
 
-
 ## WOCATI Book
 
 March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](https://wocati.org/challenges-promises-quality-assurance-theological-education/) with essays by: David Esterline, Dietrich Werner, Isabel Apawo Phiri, John Gichimu, Lester Edwin J. Ruiz, Namsoon Kang, Petros Vassiliadis, Priscille Djomhoue, Ravi Tiwari, Reinhold Bernhardt, and Simon K. Dossou.
