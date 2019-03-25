@@ -46,3 +46,10 @@ Prof. Dr. James Massey, _(BTESSC)_ Phone: +91 33 26622692 Email: srsenate@cal2.v
 [![](https://wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg "Ivan Dimitrov 120x180")](https://wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg)
 
 Prof. Dr. Ivan Zhelev Dimitrov Phone: +3592/9890115 (22) Email: ivand@theo.uni-sofia.bg
+
+- [about](/about/)
+  - [bio](/about/bio/)
+- [executive](/about/executive/)
+- [history](/about/history/)
+- [staff](/about/staff/)
+- [the future of ecumenism](/about/the-future-of-ecumenism/)

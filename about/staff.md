@@ -40,6 +40,9 @@ post_date: 2012-06-25 18:12:50
 - **WOCATI – Web Administrator**
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")
 
-
 - [about](/about/)
+  - [bio](/about/bio/)
+- [executive](/about/executive/)
+- [history](/about/history/)
 - [staff](/about/staff/)
+- [the future of ecumenism](/about/the-future-of-ecumenism/)
