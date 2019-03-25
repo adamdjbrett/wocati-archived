@@ -1,5 +1,4 @@
 ---
-ID: 1168
 post_title: 'Challenges and Promises of Quality Assurance in Theological Education'
 author: adamdjbrett
 post_excerpt: "This book is a collection of presentation papers from various regions. We hope that this collection of the consultation papers can be helpful in promoting academic, professional, and ecumenical conversations between and among associations from different contexts and in helping us thoroughly reconsider the role of associations of theological schools in assessing and
@@ -10,11 +9,12 @@ published: true
 post_date: 2016-09-05 23:58:32
 redirect_from: /9780615770888/
 ---
- {% include toc.html %}
+
 
 # Book Cover
 ![2013 WOCATI Book Cover](/images/2013-WOCATI-cover-image-512.png)
 
+ {% include toc.html %}
 
  _[&#10515; Download a high resolution version of the book cover](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2.png)_
 
