@@ -8,6 +8,7 @@ layout: article
 permalink: /work/challenges-promises-quality-assurance-theological-education/
 published: true
 post_date: 2016-09-05 23:58:32
+redirect_from: /9780615770888/
 ---
  ![[2013 WOCATI Book Cover](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2-677x1024.png)](/wp-content/uploads/2014/12/2013-WOCATI-cover-image-2.png)
 
@@ -31,4 +32,4 @@ This book is a collection of presentation papers from various regions. We hope t
 *   **Namsoon Kang,** is President of WOCATI and Professor of World Christianity and Religions at Brite Divinity School, Texas Christian University, USA. **John Gichimu,** is the Programmes Coordinator for Theology and Ministerial Formation at Organization of Africa Instituted Churches (OAIC), Africa. **Ravi Tiwari,** since 2004, is Registrar, Senate of Serampore College (University), India. **Reinhold Bernhardt,** is Professor of Systematic Theology / Dogmatics at the University of Basel, Switzerland. **Petros Vassiliadis,** is Honorary President of the Advisory Group of WOCATI and Professor of New Testament in the Department of Theology at Aristotle University of Thessaloniki, Greece. **David Esterline,** is the Director of the Institute for Cross-Cultural Theological Education and Associate Professor of Cross-Cultural Education and Ministry at McCormick Theological Seminary, USA. **Dietrich Werner,** is a WOCATI consultant and currently Program Coordinator for Ecumenical Theological Education (ETE) at World Council of Churches (WCC), Switzerland. **Priscille Djomhoue,** is a staff member of the Global Institute of Theology (GIT) World Alliance of Reformed Churches, Africa. **Simon K. Dossou,** is the Director of Department of Theology, Ecumenical & InterfaithRelations, All Africa Conference of Churches (AACC), Africa. **Lester Edwin J. Ruiz,** is is the director, Accreditation and Institutional Evaluation of ATS (Association of Theological Schools in the United States and Canada), USA.
 *   **Isabel Apawo Phiri,** is an executive member of WOCATI and new associate general secretary of the World Council of Churches, South Africa.
 
-[2013 Download - Challenges and Promises of Quality Assurance in Theological Education - WOCATI](https://wocati.org/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
+[&#10515; Download _Challenges and Promises of Quality Assurance in Theological Education_ by WOCATI, 2013 as PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
