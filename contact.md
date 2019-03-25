@@ -7,6 +7,7 @@ layout: article
 permalink: /contact/
 published: true
 post_date: 2012-06-19 21:52:41
+modified: 2019-03-25T11:57:41-04:00
 ---
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 

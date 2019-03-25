@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/presenter-bios/
 published: true
 post_date: 2012-06-29 04:03:49
+modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/presenter-bios/
 ---
 <a name="top"></a>

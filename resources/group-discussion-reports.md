@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/group-discussion-reports/
 published: true
 post_date: 2012-06-28 03:48:29
+modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/group-discussion-reports/
 ---
 

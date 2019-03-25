@@ -7,6 +7,7 @@ layout: article
 permalink: /resources/2011-wocati-consultation/presentation-outlines/
 published: true
 post_date: 2012-06-29 02:55:23
+modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/presentation-outlines/
 ---
 * * *

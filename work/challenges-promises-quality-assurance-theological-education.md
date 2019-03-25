@@ -7,6 +7,7 @@ layout: article
 permalink: /work/challenges-promises-quality-assurance-theological-education/
 published: true
 post_date: 2016-09-05 23:58:32
+modified: 2019-03-25T11:57:41-04:00
 redirect_from: /9780615770888/
 ---
 {% include toc.html %}

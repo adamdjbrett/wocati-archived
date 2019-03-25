@@ -9,6 +9,7 @@ featured:
   image: WOCATI_2011_Group_s-800x288.jpg
 published: true
 post_date: 2016-09-06 00:09:47
+modified: 2019-03-25T11:57:41-04:00
 ---
 WOCATI members have been involved in a variety of publishing activities like:
 - [books](/resources/books/)
