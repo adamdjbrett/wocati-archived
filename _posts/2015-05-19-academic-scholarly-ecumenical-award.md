@@ -7,6 +7,9 @@ layout: article
 permalink: /academic-scholarly-ecumenical-award/
 published: true
 post_date: 2015-05-19 21:04:55
+image:
+  feature: wocati-abstract-850x288.png
+  teaser: teaser.png
 categories:
   - wocati
 tags:
