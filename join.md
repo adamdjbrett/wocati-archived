@@ -1,6 +1,6 @@
 ---
 ID: 42
-post_title: Joining WOCATI
+post_title: 'Joining WOCATI'
 author: WOCATI
 post_excerpt: ""
 layout: article

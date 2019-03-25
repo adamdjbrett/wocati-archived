@@ -1,6 +1,6 @@
 ---
 ID: 1064
-post_title: The Future of Ecumenism
+post_title: 'The Future of Ecumenism'
 author: adamdjbrett
 post_excerpt: "WCC 2013 Film"
 layout: article

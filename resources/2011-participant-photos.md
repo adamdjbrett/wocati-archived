@@ -1,6 +1,6 @@
 ---
 ID: 375
-post_title: Participant Photos
+post_title: 'Participant Photos'
 author: adamdjbrett
 post_excerpt: ""
 layout: article

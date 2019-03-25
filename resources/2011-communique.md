@@ -1,6 +1,6 @@
 ---
 ID: 371
-post_title: Communique
+post_title: 'Communique'
 author: adamdjbrett
 post_excerpt: "From 4 July to 8 July 2011 representatives of the World Conference of Associations of Theological Institutions (WOCATI) met at Lakeview Airport Lodge in Johannesburg, South Africa for a Consultation on Challenges and Promises of Quality Assurance in Theological Education: Ecumenical and Multi-Contextual Inquiries."
 layout: article

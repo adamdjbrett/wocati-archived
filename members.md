@@ -1,6 +1,6 @@
 ---
 ID: 28
-post_title: Member Associations
+post_title: 'Member Associations'
 author: WOCATI
 post_excerpt: "Member Associations"
 layout: article

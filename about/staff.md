@@ -1,6 +1,6 @@
 ---
 ID: 52
-post_title: WOCATI Staff and Consultants
+post_title: 'WOCATI Staff and Consultants'
 author: WOCATI
 post_excerpt: ""
 layout: article

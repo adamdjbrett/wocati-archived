@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: Executive Committee
+post_title: 'Executive Committee'
 author: adamdjbrett
 post_excerpt: ""
 layout: article

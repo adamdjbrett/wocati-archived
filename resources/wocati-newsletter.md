@@ -1,6 +1,6 @@
 ---
 ID: 775
-post_title: WOCATI Newsletter
+post_title: 'WOCATI Newsletter'
 author: WOCATI
 post_excerpt: "WOCATI Newsletter"
 layout: article

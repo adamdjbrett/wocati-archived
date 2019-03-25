@@ -1,6 +1,6 @@
 ---
 ID: 403
-post_title: Daily Wrap Up Reports
+post_title: 'Daily Wrap Up Reports'
 author: adamdjbrett
 post_excerpt: "What Constitutes Quality in Theological Education"
 layout: article

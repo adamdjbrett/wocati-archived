@@ -1,6 +1,6 @@
 ---
 ID: 776
-post_title: Archive
+post_title: 'Archive'
 author: adamdjbrett
 post_excerpt: "Full WOCATI Archive"
 layout: article
