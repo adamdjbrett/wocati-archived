@@ -221,7 +221,7 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 
 
-_Adopted by WOCATI (The World Conference of Associations of Theological Institutions) at its Inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19__th_ June, 1989 , amended at the Nairobi Congress on 3_rd_ _July, 1996 and by the constitutional revision process after the WOCATI Congress in Greece by the WOCATI Executive Meeting in Princeton Theological Seminary 17-20 March 2009, approved by the members of WOCATI May 2010._
+_Adopted by WOCATI (The World Conference of Associations of Theological Institutions) at its Inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19<sup>th</sup> June, 1989 , amended at the Nairobi Congress on 3<sup>rd</sup> _July, 1996 and by the constitutional revision process after the WOCATI Congress in Greece by the WOCATI Executive Meeting in Princeton Theological Seminary 17-20 March 2009, approved by the members of WOCATI May 2010._
 - [WOCATI Constitution 2010](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Constitution-2010_rev2.pdf)
 
 
