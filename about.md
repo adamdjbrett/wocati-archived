@@ -8,6 +8,9 @@ permalink: /about/
 published: true
 post_date: 2012-06-25 17:49:55
 ---
+- [about](/about/)
+- [staff](/about/staff/)
+
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
 [Preamble](#PREAMBLE), [Name](#NAME), [Organizational identity](#ORGANIZATIONAL), [Purposes](#PURPOSES), [Membership](#MEMBERSHIP), [Associate Membership](#ASSOCIATE), [Assembly](#ASSEMBLY) [Executive Committee, Working Groups, and Staff](#excomm), [Finances](#FINANCES), [Appeals](#APPEALS), [Bylaws](#BYLAWS1), [Amendments](#AMENDMENTS), [BYLAWS](#bylaws)
@@ -232,4 +235,8 @@ WOCATI is organized according to the provisions contained herein for the followi
 
 * * *
 
-_Adopted by WOCATI (The World Conference of Associations of Theological Institutions) at its Inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19__th_ June, 1989 , amended at the Nairobi Congress on 3_rd_ _July, 1996 and by the constitutional revision process after the WOCATI Congress in Greece by the WOCATI Executive Meeting in Princeton Theological Seminary 17-20 March 2009, approved by the members of WOCATI May 2010._ [WOCATI Constitution 2010](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Constitution-2010_rev2.pdf) [back to top](#top)
+_Adopted by WOCATI (The World Conference of Associations of Theological Institutions) at its Inaugural meeting at Kaliurang, Yogyakarta, Indonesia, 19__th_ June, 1989 , amended at the Nairobi Congress on 3_rd_ _July, 1996 and by the constitutional revision process after the WOCATI Congress in Greece by the WOCATI Executive Meeting in Princeton Theological Seminary 17-20 March 2009, approved by the members of WOCATI May 2010._
+- [WOCATI Constitution 2010](https://wocati.org/wp-content/uploads/2012/06/WOCATI-Constitution-2010_rev2.pdf)
+- [back to top](#top)
+- [about](/about/)
+- [staff](/about/staff/)

@@ -2,9 +2,9 @@
 ID: 775
 post_title: WOCATI Newsletter
 author: WOCATI
-post_excerpt: ""
+post_excerpt: "WOCATI Newsletter"
 layout: article
-permalink: resources/archive/publications/wocati-newsletter/
+permalink: /resources/archive/publications/wocati-newsletter/
 published: true
 post_date: 2012-06-30 00:26:52
 ---

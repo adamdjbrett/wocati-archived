@@ -39,3 +39,7 @@ post_date: 2012-06-25 18:12:50
 
 - **WOCATI – Web Administrator**
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")
+
+
+- [about](/about/)
+- [staff](/about/staff/)

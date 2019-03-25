@@ -10,7 +10,18 @@ post_date: 2016-09-06 00:09:47
 ---
 ## WOCATI Book
 
-March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](http://wocati.org/challenges-promises-quality-assurance-theological-education/) with essays by: David Esterline, Dietrich Werner, Isabel Apawo Phiri, John Gichimu, Lester Edwin J. Ruiz, Namsoon Kang, Petros Vassiliadis, Priscille Djomhoue, Ravi Tiwari, Reinhold Bernhardt, and Simon K. Dossou.
+March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](https://wocati.org/challenges-promises-quality-assurance-theological-education/) with essays by:
+  * David Esterline,
+  * Dietrich Werner,
+  * Isabel Apawo Phiri,
+  * John Gichimu,
+  * Lester Edwin J. Ruiz,
+  * Namsoon Kang,
+  * Petros Vassiliadis,
+  * Priscille Djomhoue,
+  * Ravi Tiwari,
+  * Reinhold Bernhardt, and
+  * Simon K. Dossou.
 
 ### Table of Contents
 
@@ -38,4 +49,4 @@ March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Chal
     *   Consultation Participants
     *   Invitees Unable to Attend
 
-[download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](http://wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
+[download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](https://wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
