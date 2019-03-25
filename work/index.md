@@ -12,7 +12,7 @@ post_date: 2016-09-06 00:09:47
 ---
 WOCATI members have been involved in a variety of publishing activities like:
 - [books](/resources/books/)
-  - [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](https://wocati.org/challenges-promises-quality-assurance-theological-education/)
+  - [_Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires_](/work/challenges-promises-quality-assurance-theological-education/)
 - [publications](/resources/publications/)
   - [Newsletter](/resources/wocati-newsletter/)
   - [Ministerial Formation Journal Archive](/resources/archive/publications/ministerial-formation/)
