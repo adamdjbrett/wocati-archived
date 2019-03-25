@@ -21,7 +21,13 @@ post_date: 2012-06-19 22:12:05
 - [academia.edu](http://auth.academia.edu/PetrosVassiliadis)
 
 
-  **[![](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg "Nestor Miguez WOCATI, Vice President")](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg)VICE PRESIDENT/LATIN AMERICA** Prof. Dr. Nestor Oscar Miguez, _(CETELA)_ Phone: +54-11-44690786 email:cetela@est.edu.br     **[![](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png "James Amanze, WOCATI Secretary/Treasurer")](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png)SECRETARY/AFRICA** Prof. Dr. James Nathaniel Amanze, _(ATISCA)_ 267-355 2632 amanzejn@mopipi.ub.bw
+[![](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg "Nestor Miguez WOCATI, Vice President")](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg)
+
+**VICE PRESIDENT/LATIN AMERICA** Prof. Dr. Nestor Oscar Miguez, _(CETELA)_ Phone: +54-11-44690786 email:cetela@est.edu.br    
+
+[![](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png "James Amanze, WOCATI Secretary/Treasurer")](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png)
+
+**SECRETARY/AFRICA** Prof. Dr. James Nathaniel Amanze, _(ATISCA)_ 267-355 2632 amanzejn@mopipi.ub.bw
 
 # EXECUTIVE MEMBERS
 
@@ -29,7 +35,9 @@ post_date: 2012-06-19 22:12:05
 
 **AFRICA**
 
-[![](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg "Isabel Apawo Phiri, WOCATI Executive")](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg)Prof. Dr. Isabel Apawo Phiri _(CIRCLE)_ +0027 33 260 6132 PhiriI@ukzn.ac.za
+[![](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg "Isabel Apawo Phiri, WOCATI Executive")](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg)
+
+Prof. Dr. Isabel Apawo Phiri _(CIRCLE)_ +0027 33 260 6132 PhiriI@ukzn.ac.za
 
    
 
