@@ -54,7 +54,7 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      layout: post
+      layout: article
       read_time: true
 
 include:

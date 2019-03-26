@@ -6,7 +6,7 @@ excerpt: "Members of WOCATI published a groundbreaking book entitled Challenges
 layout: article
 permalink: /work/
 image:
-  featured: WOCATI_2011_Group_s-800x288.jpg
+  feature: WOCATI_2011_Group_s-800x288.jpg
   credit: Rob Lee
   creditlink: http://www.flickr.com/photos/roblee/23349644/
 published: true
@@ -55,3 +55,8 @@ March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Chal
   * [&#10515; Download _Challenges and Promises of Quality Assurance in Theological Education_ by WOCATI, 2013 as PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
 * Preliminary documents
   * [&#10515;  Download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](https://wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
+
+***
+### Works Submenu
+#### [works](/works/)
+#### [Challenges and Promises of Quality Assurance in Theological Education](/work/challenges-promises-quality-assurance-theological-education/)
