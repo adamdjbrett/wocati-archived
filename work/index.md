@@ -7,8 +7,8 @@ layout: article
 permalink: /work/
 image:
   feature: WOCATI_2011_Group_s-800x288.jpg
-  credit: Rob Lee
-  creditlink: http://www.flickr.com/photos/roblee/23349644/
+  credit: https://wocati.org
+  creditlink: Dr. Victor Nakah
 published: true
 date: 2016-09-06 00:09:47
 modified: 2019-03-25T11:57:41-04:00
