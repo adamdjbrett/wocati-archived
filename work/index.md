@@ -5,8 +5,8 @@ author: adamdjbrett
 excerpt: "Members of WOCATI published a groundbreaking book entitled Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires."
 layout: article
 permalink: /work/
-featured:
-  image: WOCATI_2011_Group_s-800x288.jpg
+image:
+  featured: WOCATI_2011_Group_s-800x288.jpg
   credit: Rob Lee
   creditlink: http://www.flickr.com/photos/roblee/23349644/
 published: true

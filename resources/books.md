@@ -5,8 +5,10 @@ author: adamdjbrett
 excerpt: "Participants focused on supporting, enhancing, and assessing the quality of theological education both within regional contexts and across contexts through presentations, roundtable discussions, and breakout sessions. This book is a collection of presentation papers from various regions. We hope that this collection of the consultation papers can be helpful in promoting academic, professional, and ecumenical conversations between and among associations from different contexts and in helping us thoroughly reconsider the role of associations of theological schools in assessing and promoting the quality of theological education in World Conference of Associations of Theological Institutions (WOCATI) member institutions."
 layout: article
 permalink: /resources/archive/publications/books/
-featured:
-  image: book-cover.jpg
+image:
+  featured: WOCATI_2011_Group_s-800x288.jpg
+  credit: Rob Lee
+  creditlink: http://www.flickr.com/photos/roblee/23349644/
 published: true
 date: 2013-03-09 18:54:50
 modified: 2019-03-25T11:57:41-04:00
