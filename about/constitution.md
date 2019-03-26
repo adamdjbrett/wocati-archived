@@ -231,7 +231,7 @@ _Adopted by WOCATI (The World Conference of Associations of Theological Institut
 ***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)

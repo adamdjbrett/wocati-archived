@@ -41,11 +41,11 @@ share: false
 ### **WOCATI – Web Administrator**
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")
 
-***
 
+***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)

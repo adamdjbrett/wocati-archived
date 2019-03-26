@@ -24,7 +24,7 @@ Theological education is a worldwide enterprise fundamental to the mission of th
 ***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)

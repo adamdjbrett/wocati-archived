@@ -58,7 +58,7 @@ Prof. Dr. Ivan Zhelev Dimitrov Phone: +3592/9890115 (22) Email: ivand@theo.uni-s
 ***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)

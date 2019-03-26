@@ -20,7 +20,7 @@ share: false
 ***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)

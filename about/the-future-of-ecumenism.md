@@ -15,7 +15,7 @@ In 2013 the World Council of Churches had it's 10th general assembly and WOCATI 
 ***
 ### About Sub-Menu
 #### [about](/about/)
-- [constitution](/about/constitution/)
+#### [constitution](/about/constitution/)
 #### [executive](/about/executive/)
 #### [history](/about/history/)
 #### [staff](/about/staff/)
