@@ -6,7 +6,7 @@ excerpt: "Participants focused on supporting, enhancing, and assessing the quali
 layout: article
 permalink: /resources/archive/publications/books/
 image:
-  feature: WOCATI_2011_Group_s-800x288.jpg
+  feature: book-cover.jpg
   credit: Rob Lee
   creditlink: http://www.flickr.com/photos/roblee/23349644/
 published: true
