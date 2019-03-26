@@ -68,7 +68,7 @@ share: false
 *   [&#10515; Ministerial Formation, issue 95, October 2001](https://wocati.org/wp-content/uploads/2012/06/mf095.pdf)
 *   [&#10515; Ministerial Formation, issue 94, July 2001](https://wocati.org/wp-content/uploads/2012/06/mf094.pdf)
 *   [&#10515; Ministerial Formation, issue 93, April 2001](https://wocati.org/wp-content/uploads/2012/06/mf093.pdf)
-*   [&#10515; Ministerial formation, issue 111, November 2008](https://wocati.org/wp-<a href=)
+*   [&#10515; Ministerial formation, issue 111, November 2008](/wp-content/uploads/2012/06/mf094.pdf)
 *   [&#10515; Ministerial formation, issue 109, July 2007](https://wocati.org/wp-content/uploads/2012/06/mf109.pdf)
 *   [&#10515; Ministerial formation, issue 108, January 2007](https://wocati.org/wp-content/uploads/2012/06/mf108.pdf)
 *   [&#10515; Ministerial formation, issue 107, July 2006](https://wocati.org/wp-content/uploads/2012/06/mf107.pdf)

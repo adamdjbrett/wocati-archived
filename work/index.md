@@ -58,5 +58,5 @@ March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Chal
 
 ***
 ### Works Submenu
-#### [works](/works/)
+#### [work](/work/)
 #### [Challenges and Promises of Quality Assurance in Theological Education](/work/challenges-promises-quality-assurance-theological-education/)

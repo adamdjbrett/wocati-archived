@@ -47,7 +47,7 @@ The 2011 Consultation included lively presentations and panel discussions from a
 *   [&#10515; Bio of Dr. Tiwari](https://wocati.org/resources/2011-wocati-consultation/presenter-bios/#Tiwari "Ravi Tiwari") [– Standard of Quality Assurance in Asia](/wp-content/uploads/2012/06/Tiwari-%E2%80%93-Standard-of-Quality-Assurance-in-Asia.pdf "2011 WOCATI Consultation – Standard of Quality Assurance in Asia – Ravi Tiwari (Download Publication)")
 *   Session 11: Standards for Quality Assurance in Europe Presenter: Dr. Reinhold Bernhardt Moderator: Dr. Namsoon Kang
 *   Session 12: Standards for Quality Assurance in North America Presenter: Dr. David Esterline Moderator: Dr. James Massey
-*   [Bio of Dr. Esterline](/2011-wocati-consultation/presenter-bios/#Esterline)
+*   [Bio of Dr. Esterline](/resources/2011-wocati-consultation/presenter-bios/)
 *   [North American Quality Standards in Theological Education by David Esterline](/wp-content/uploads/2012/06/Esterline-North-American-Quality-Standards-in-Theological-Education.pdf)
 *   Session 13: Standards for Quality Assurance: Catholic Theological Education Presenter_:_ Dr. Gary Riebe-Estrella Moderator: Dr. James Massey
 *   Session 14: Case Study: Theological Education by Extension Presenter: Dr. Kangwa Mabuluki
