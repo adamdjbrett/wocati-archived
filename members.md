@@ -12,17 +12,17 @@ redirect_from: members.html
 ---
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
+
 {% include toc.html %}
 
 
-## Africa[![WOCATI - Africa Map](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
 
+
+## Africa[![WOCATI - Africa Map](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif "Africa Map Image")](https://wocati.org/wp-content/uploads/2012/06/uploadsRTEmagicP_204ce30bc4.gif)
  
 
 **Association des Institutions d'Enseignement Theologique en Afrique Occidentale (AIETAO)**
-
  
-
 **Association of Theological Institutions in Eastern Africa(ATIEA)**
 
 Physical Address: P.O.Box 15055-00509 Langata KENYA Contact person(s): Rev. Dr. Godffrey P. Ngumi, General Secretary E-mail: glad4phil@yahoo.com
@@ -31,12 +31,9 @@ Physical Address: P.O.Box 15055-00509 Langata KENYA Contact person(s): Rev. Dr. 
 
 Physical Address: Department of Theology and Religious Studies University of Botswana, Gaborone BOTSWANA. Contact person(s): Prof. James N. Amanze Email: amanzejn@mopipi.ub.bw
 
- 
 
 **Conference of African Theological Institutions (CATI)**
-
  
-
 **The Circle of Concerned African Women Theologians (CIRCLE)**
 
 **West African Association of Theological Institutions (WAATI)**
@@ -44,20 +41,17 @@ Physical Address: Department of Theology and Religious Studies University of Bot
 Physical Address: Nigerian Baptist Theological Seminary PMB 4008 Ogbomoso Oyo State Nigeria. Contact person(s): Professor Deji Isaac Ayegboyin Email: dejigboyin@yahoo.com
 
  
-
 **ASTHEOL**
 
- 
 
 **AOTA**
 
  
-
 **Comunidad de Educacion Teologica Ecumenica Latinoamericana y Caribe (CETELA)**
 
 Physical address: Instituto Universitario ISEDET Camacuá 252 C1406DOF Argentina Contact person(s): Dr. Néstor Míguez, President Email: cetelapres@isedet.edu.ar
 
-[back to top](#top)
+
 
 
 
@@ -95,7 +89,7 @@ Physical Address: Mac House Complex William Carey Road SERAMPORE. Dist. Hooghly.
 
 Physical Address: Methodist Theological University 120-701, Naengcheong Dong 31, Seodaemoon Gu, Seoul Korea Contact person(s): Professor Dr Wang Tai-il, General Secretary E-mail: kaats@mtu.ac.kr
 
-[back to top](#top)
+
 
 
 
@@ -107,7 +101,7 @@ Physical Address: Methodist Theological University 120-701, Naengcheong Dong 31,
 
 c/o The Chairman, Codrington College St. John, Barbados, W.I. Contact: Dr. Noel Titus Telephone: 246.423.1140 Fax: 246.423.1592 E-mail: codrington@sunbeach.net
 
-[back to top](#top)
+
 
 
 
@@ -131,7 +125,7 @@ Physical address: Somerset Road, Edgbaston, Birmingham, B15 2QH Contact person: 
 
 **Consortium of European Baptist Theological Schools (CEBTS)**
 
-[back to top](#top)
+
 
 
 
@@ -143,7 +137,7 @@ Physical address: Somerset Road, Edgbaston, Birmingham, B15 2QH Contact person: 
 
 Magdi S. Gendi, Executive Secretary Email: mgendi@etsc.org
 
-[back to top](#top)
+
 
 
 
@@ -187,7 +181,7 @@ Casilla de Correo 129, 1424 Sucureal 24, Buenos Aires, Argentina Telephone: 412.
 
 Rua Rego Freitas, 530, F-13, 01220 Sao Paulo, SP, Brasil Telephone: 412.788.6505 Contact person: Fernando Bortolleto Filho Telephone: \[11\] 257.5462 Fax: \[11\] 256.9896 E-mail: aste@uol.com.br Website: [http://www.aste.org.br](http://www.aste.org.br)
 
-[back to top](#top)
+
 
 
 
