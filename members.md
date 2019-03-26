@@ -8,6 +8,7 @@ permalink: /members/
 published: true
 date: 2012-06-19 21:56:49
 modified: 2019-03-25T11:57:41-04:00
+redirect_from: members.html
 ---
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
@@ -211,7 +212,18 @@ Physical Address: Post Office Box 2 BENDIGO Victoria 3552 Australia Contact pers
 Physical Address: Knox Centre for Ministry and Leadership, Knox College, Arden Street, Dunedin 9001, New Zealand Contact person(s): Dr. Kevin Ward Telephone: 0064.3.473 0107 E-mail: kward@knoxcollege.ac.nz Website: [http://www.nzats.godzone.net.nz](http://www.nzats.godzone.net.nz)
 
 
-
-
-
 [WCC list of WOCATI members and affiliated colleges](http://www.oikoumene.org/en/programmes/education-and-ecumenical-formation/ecumenical-theological-education/wcc-partners-in-theological-education/international-directory-of-theological-schools/wocati-members-and-colleges-affiliated-to-wocati.html "WCC - List of WOCATI members and Affiliates")
+
+
+***
+### About Sub-Menu
+#### [about](/about/)
+#### [constitution](/about/constitution/)
+#### [executive](/about/executive/)
+#### [history](/about/history/)
+#### [staff](/about/staff/)
+#### [the future of ecumenism](/about/the-future-of-ecumenism/)
+#### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

@@ -21,3 +21,6 @@ In 2013 the World Council of Churches had it's 10th general assembly and WOCATI 
 #### [staff](/about/staff/)
 #### [the future of ecumenism](/about/the-future-of-ecumenism/)
 #### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

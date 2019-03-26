@@ -237,3 +237,6 @@ _Adopted by WOCATI (The World Conference of Associations of Theological Institut
 #### [staff](/about/staff/)
 #### [the future of ecumenism](/about/the-future-of-ecumenism/)
 #### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

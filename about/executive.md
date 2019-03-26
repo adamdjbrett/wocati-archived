@@ -64,3 +64,6 @@ Prof. Dr. Ivan Zhelev Dimitrov Phone: +3592/9890115 (22) Email: ivand@theo.uni-s
 #### [staff](/about/staff/)
 #### [the future of ecumenism](/about/the-future-of-ecumenism/)
 #### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

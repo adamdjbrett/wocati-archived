@@ -22,6 +22,7 @@ The [World Conference of Associations of Theological Institutions (WOCATI)](http
 Theological education is a worldwide enterprise fundamental to the mission of the church. In its most immediate and concrete forms theological education is shaped by the religious, educational, social, political and historical traditions within which it exists. Theological education is carried out in a world which is increasingly being made aware of its interdependence and religious pluralism.
 
 ***
+***
 ### About Sub-Menu
 #### [about](/about/)
 #### [constitution](/about/constitution/)
@@ -30,3 +31,6 @@ Theological education is a worldwide enterprise fundamental to the mission of th
 #### [staff](/about/staff/)
 #### [the future of ecumenism](/about/the-future-of-ecumenism/)
 #### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

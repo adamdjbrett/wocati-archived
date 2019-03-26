@@ -16,6 +16,19 @@ Before completing the form, please review the [WOCATI membership guidelines](/ab
  Please provide a full description of your organization, the level at which you wish to join and your reason for joining in the form below.
  Or by emailing: wocati.director@gmail.com  
 
- - **Petros Vassiliadis**
+## **Petros Vassiliadis**
  - Emeritus Professor of the Aristotle University of Thessaloniki
  - [academia.edu](http://auth.academia.edu/PetrosVassiliadis)
+
+***
+### About Sub-Menu
+#### [about](/about/)
+#### [constitution](/about/constitution/)
+#### [executive](/about/executive/)
+#### [history](/about/history/)
+#### [staff](/about/staff/)
+#### [the future of ecumenism](/about/the-future-of-ecumenism/)
+#### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)

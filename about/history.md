@@ -26,3 +26,6 @@ share: false
 #### [staff](/about/staff/)
 #### [the future of ecumenism](/about/the-future-of-ecumenism/)
 #### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [members](/members/)
+##### [join](/join/)
+#### [contact](/contact/)
