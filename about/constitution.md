@@ -230,10 +230,10 @@ _Adopted by WOCATI (The World Conference of Associations of Theological Institut
 
 ***
 ### About Sub-Menu
-####  - [about](/about/)
-####  - [constitution](/about/constitution/)
-####  - [executive](/about/executive/)
-####  - [history](/about/history/)
-####  - [staff](/about/staff/)
-####  - [the future of ecumenism](/about/the-future-of-ecumenism/)
-####  - [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
+#### [about](/about/)
+#### [constitution](/about/constitution/)
+#### [executive](/about/executive/)
+#### [history](/about/history/)
+#### [staff](/about/staff/)
+#### [the future of ecumenism](/about/the-future-of-ecumenism/)
+#### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
