@@ -17,10 +17,12 @@ share: false
 *   [&#10515; 2013 - _Challenges and Promises of Quality Assurance in Theological Education_ - WOCATI PDF](https://wocati.org/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
 *   [&#10515;Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education PDF](https://wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
 
-
-- [about](/about/)
-  - [Constitution](/about/constitution/)
-- [executive](/about/executive/)
-- [history](/about/history/)
-- [staff](/about/staff/)
-- [the future of ecumenism](/about/the-future-of-ecumenism/)
+***
+### About Sub-Menu
+#### [about](/about/)
+- [constitution](/about/constitution/)
+#### [executive](/about/executive/)
+#### [history](/about/history/)
+#### [staff](/about/staff/)
+#### [the future of ecumenism](/about/the-future-of-ecumenism/)
+#### [academic scholarly ecumenical award](/academic-scholarly-ecumenical-award/)
