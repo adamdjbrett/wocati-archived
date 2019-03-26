@@ -1,3 +1,6 @@
+---
+published: false
+---
 - [Home](/)
 - [about](/about/)
   - [Constitution](/about/constitution/)
