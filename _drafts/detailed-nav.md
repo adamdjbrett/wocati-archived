@@ -1,6 +1,6 @@
 - [Home](/)
 - [about](/about/)
-  - [bio](/about/bio/)
+  - [Constitution](/about/constitution/)
   - [executive](/about/executive/)
   - [history](/about/history/)
   - [staff](/about/staff/)

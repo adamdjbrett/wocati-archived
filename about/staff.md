@@ -42,7 +42,7 @@ share: false
 - Adam DJ Brett Website: [http://adamdjbrett.com](http://adamdjbrett.com "Adam DJ Brett - Official Homepage")
 
 - [about](/about/)
-  - [bio](/about/bio/)
+  - [Constitution](/about/constitution/)
 - [executive](/about/executive/)
 - [history](/about/history/)
 - [staff](/about/staff/)

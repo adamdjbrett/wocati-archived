@@ -7,6 +7,7 @@ author: WOCATI
 excerpt: "Theological education is a worldwide enterprise fundamental to the mission of the church."
 published: true
 share: false
+permalink: /about/constitution/
 ---
 [![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
@@ -229,7 +230,7 @@ _Adopted by WOCATI (The World Conference of Associations of Theological Institut
 
 
 - [about](/about/)
-  - [bio](/about/bio/)
+  - [Constitution](/about/constitution/)
   - [executive](/about/executive/)
   - [history](/about/history/)
   - [staff](/about/staff/)

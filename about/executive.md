@@ -57,7 +57,7 @@ Prof. Dr. James Massey, _(BTESSC)_ Phone: +91 33 26622692 Email: srsenate@cal2.v
 Prof. Dr. Ivan Zhelev Dimitrov Phone: +3592/9890115 (22) Email: ivand@theo.uni-sofia.bg
 
 - [about](/about/)
-  - [bio](/about/bio/)
+- [Constitution](/about/constitution/)
 - [executive](/about/executive/)
 - [history](/about/history/)
 - [staff](/about/staff/)
