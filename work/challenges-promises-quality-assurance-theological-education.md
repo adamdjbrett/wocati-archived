@@ -9,10 +9,10 @@ published: true
 date: 2016-09-05 23:58:32
 modified: 2019-03-25T11:57:41-04:00
 redirect_from: /9780615770888/
-image:
-  feature: book-cover.jpg
-  credit: Rob Lee
-  creditlink: http://www.flickr.com/photos/roblee/23349644/
+#image:
+  #feature: book-cover.jpg
+  #credit: Rob Lee
+  #creditlink: http://www.flickr.com/photos/roblee/23349644/
 ---
 {% include toc.html %}
 
