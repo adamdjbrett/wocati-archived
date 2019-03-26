@@ -2,7 +2,7 @@
 ID: 28
 post_title: 'Member Associations'
 author: WOCATI
-post_excerpt: "Member Associations"
+excerpt: "Member Associations"
 layout: article
 permalink: /members/
 published: true

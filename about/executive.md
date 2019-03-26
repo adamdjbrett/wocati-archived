@@ -2,7 +2,7 @@
 ID: 50
 post_title: 'Executive Committee'
 author: adamdjbrett
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /about/executive/
 published: true

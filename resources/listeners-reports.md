@@ -2,7 +2,7 @@
 ID: 407
 post_title: 'Listeners&#8217; Reports'
 author: WOCATI
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /resources/listeners-reports/
 published: true

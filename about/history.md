@@ -2,7 +2,7 @@
 ID: 817
 post_title: 'History'
 author: adamdjbrett
-post_excerpt: "Please click on the bulleted item to download the PDF"
+excerpt: "Please click on the bulleted item to download the PDF"
 layout: article
 permalink: /about/history/
 published: true

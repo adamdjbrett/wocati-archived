@@ -2,7 +2,7 @@
 ID: 801
 post_title: 'Ministerial Formation'
 author: WOCATI
-post_excerpt: "WCC Ministerial Formation publication"
+excerpt: "WCC Ministerial Formation publication"
 layout: article
 permalink: /resources/archive/publications/ministerial-formation/
 published: true

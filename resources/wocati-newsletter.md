@@ -2,7 +2,7 @@
 ID: 775
 post_title: 'WOCATI Newsletter'
 author: WOCATI
-post_excerpt: "WOCATI Newsletter"
+excerpt: "WOCATI Newsletter"
 layout: article
 permalink: /resources/archive/publications/wocati-newsletter/
 published: true

@@ -2,7 +2,7 @@
 ID: 778
 post_title: 'Publications'
 author: WOCATI
-post_excerpt: "Books, Journals, and other publications"
+excerpt: "Books, Journals, and other publications"
 layout: article
 permalink: /resources/archive/publications/
 published: true

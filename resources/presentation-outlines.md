@@ -2,7 +2,7 @@
 ID: 401
 post_title: 'Presentation Outlines'
 author: WOCATI
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /resources/2011-wocati-consultation/presentation-outlines/
 published: true

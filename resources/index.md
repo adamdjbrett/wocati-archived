@@ -2,7 +2,7 @@
 ID: 20
 post_title: 'Resources'
 author: WOCATI
-post_excerpt: "Full World Conference of Associations of Theological Institutions (WOCATI) Resources"
+excerpt: "Full World Conference of Associations of Theological Institutions (WOCATI) Resources"
 layout: article
 permalink: /resources/
 published: true

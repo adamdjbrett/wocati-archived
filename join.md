@@ -2,7 +2,7 @@
 ID: 42
 post_title: 'Joining WOCATI'
 author: WOCATI
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /members/join/
 published: true

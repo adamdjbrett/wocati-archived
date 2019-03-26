@@ -2,7 +2,7 @@
 ID: 1116
 post_title: "Academic Scholarly Ecumenical Award"
 author: adamdjbrett
-post_excerpt: "The Awards will be given every two years, starting from 2016. Both awards are honorific (with a AISR trophy) and both the call and the results will be announced also on the AISR web site."
+excerpt: "The Awards will be given every two years, starting from 2016. Both awards are honorific (with a AISR trophy) and both the call and the results will be announced also on the AISR web site."
 layout: article
 permalink: /academic-scholarly-ecumenical-award/
 published: true

@@ -2,7 +2,7 @@
 ID: 403
 post_title: 'Daily Wrap Up Reports'
 author: adamdjbrett
-post_excerpt: "What Constitutes Quality in Theological Education"
+excerpt: "What Constitutes Quality in Theological Education"
 layout: article
 permalink: /resources/2011-wocati-consultation/daily-wrap-up-reports/
 published: true

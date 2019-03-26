@@ -2,7 +2,7 @@
 ID: 1110
 post_title: 'Bio'
 author: WOCATI
-post_excerpt: "The World Conference of Associations of Theological Institutions (WOCATI), the global platform for dialogue and networking between regional associations of theological schools, was established in 1989 with its inaugural meeting at Kaliurang, Yogyakarta, Indonesia, June 19, 1989."
+excerpt: "The World Conference of Associations of Theological Institutions (WOCATI), the global platform for dialogue and networking between regional associations of theological schools, was established in 1989 with its inaugural meeting at Kaliurang, Yogyakarta, Indonesia, June 19, 1989."
 layout: article
 permalink: /about/bio/
 published: true

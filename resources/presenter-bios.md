@@ -2,7 +2,7 @@
 ID: 409
 post_title: 'Presenter Bios'
 author: WOCATI
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /resources/2011-wocati-consultation/presenter-bios/
 published: true

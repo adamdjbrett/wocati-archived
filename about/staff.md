@@ -2,7 +2,7 @@
 ID: 52
 post_title: 'WOCATI Staff and Consultants'
 author: WOCATI
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /about/staff/
 published: true

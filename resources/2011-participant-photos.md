@@ -2,7 +2,7 @@
 ID: 375
 post_title: 'Participant Photos'
 author: adamdjbrett
-post_excerpt: ""
+excerpt: ""
 layout: article
 permalink: /resources/2011-wocati-consultation/2011-participant-photos/
 published: true
