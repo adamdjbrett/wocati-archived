@@ -13,7 +13,8 @@ share: false
 ---
 ## [![](https://wocati.org/wp-content/uploads/2012/06/woclog3.gif "woclog3")](https://wocati.org/wp-content/uploads/2012/06/woclog3.gif)WOCATI 2011 Consultation Communiqué Johannesburg, South Africa, 4 July – 8 July, 2011
 
-* * *
+
+
 
 1.  From 4 July to 8 July 2011 representatives of the World Conference of Associations of Theological Institutions (WOCATI) met at Lakeview Airport Lodge in Johannesburg, South Africa for a Consultation on “Challenges and Promises of Quality Assurance in Theological Education: Ecumenical and Multi-Contextual Inquiries.” The 38 participants enjoyed meeting for the first time on the African continent and becoming aware of the strategic importance of African associations of theological schools and the work of AACC and other ecumenical bodies in enhancing theological education in Africa.
 2.  The Consultation was an historic event, since for the first time Protestant, Roman Catholic, Orthodox, Evangelical, Pentecostal, and African Independent Churches’ associations came together to address issues of quality assurance and enhancement in theological education on the global level.
