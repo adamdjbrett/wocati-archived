@@ -6,7 +6,7 @@ excerpt: "What Constitutes Quality in Theological Education"
 layout: article
 permalink: /resources/2011-wocati-consultation/daily-wrap-up-reports/
 published: true
-post_date: 2012-06-28 03:57:37
+date: 2012-06-28 03:57:37
 modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/daily-wrap-up-reports/
 share: false

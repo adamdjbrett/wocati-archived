@@ -6,7 +6,7 @@ excerpt: "The Awards will be given every two years, starting from 2016. Both awa
 layout: article
 permalink: /academic-scholarly-ecumenical-award/
 published: true
-post_date: 2015-05-19 21:04:55
+date: 2015-05-19 21:04:55
 image:
   feature: wocati-abstract-850x288.png
   teaser: teaser.png

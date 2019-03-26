@@ -6,7 +6,7 @@ excerpt: "At the 2011 Consultation, participants from around the globe interacte
 layout: article
 permalink: /resources/2011-wocati-consultation/
 published: true
-post_date: 2012-06-28 03:40:31
+date: 2012-06-28 03:40:31
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---

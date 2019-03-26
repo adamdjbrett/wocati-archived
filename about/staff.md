@@ -1,11 +1,11 @@
 ---
 title: 'WOCATI Staff and Consultants'
 author: WOCATI
-excerpt: ""
+excerpt: "World Conference of Associated Theological Institutions staff"
 layout: article
 permalink: /about/staff/
 published: true
-post_date: 2012-06-25 18:12:50
+date: 2012-06-25 18:12:50
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---

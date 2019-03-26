@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'About'
-post_date: 2012-06-25 17:49:55
+date: 2012-06-25 17:49:55
 modified: 2019-03-25T11:57:41-04:00
 author: WOCATI
 excerpt: "Theological education is a worldwide enterprise fundamental to the mission of the church."

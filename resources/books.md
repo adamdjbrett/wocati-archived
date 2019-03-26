@@ -8,7 +8,7 @@ permalink: /resources/archive/publications/books/
 featured:
   image: book-cover.jpg
 published: true
-post_date: 2013-03-09 18:54:50
+date: 2013-03-09 18:54:50
 modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/books/
 share: false

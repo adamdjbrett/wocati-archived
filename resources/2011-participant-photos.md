@@ -6,7 +6,7 @@ excerpt: ""
 layout: article
 permalink: /resources/2011-wocati-consultation/2011-participant-photos/
 published: true
-post_date: 2012-06-26 04:52:09
+date: 2012-06-26 04:52:09
 modified: 2019-03-25T11:57:41-04:00
 redirect_from: /resources/2011-participant-photos/
 share: false

@@ -6,7 +6,7 @@ two decades, many theological institutions have commited themselves to closer co
 layout: article
 permalink: /about/history/
 published: true
-post_date: 2012-06-30 00:38:11
+date: 2012-06-30 00:38:11
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---

@@ -6,7 +6,7 @@ excerpt: "WCC 2013 Film"
 layout: article
 permalink: /about/the-future-of-ecumenism/
 published: true
-post_date: 2014-06-12 17:33:23
+date: 2014-06-12 17:33:23
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---

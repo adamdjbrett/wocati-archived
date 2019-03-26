@@ -5,7 +5,7 @@ excerpt: "The World Conference of Associations of Theological Institutions (WOCA
 layout: article
 permalink: /about/bio/
 published: true
-post_date: 2015-03-10 21:52:20
+date: 2015-03-10 21:52:20
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---

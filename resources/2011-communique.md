@@ -6,7 +6,7 @@ excerpt: "From 4 July to 8 July 2011 representatives of the World Conference of 
 layout: article
 permalink: /resources/2011-wocati-consultation/2011-communique/
 published: true
-post_date: 2012-06-26 04:19:09
+date: 2012-06-26 04:19:09
 redirect_from: /resources/2011-communique/
 modified: 2019-03-25T11:57:41-04:00
 share: false
