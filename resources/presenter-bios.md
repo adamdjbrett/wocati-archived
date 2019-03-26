@@ -1,6 +1,6 @@
 ---
 ID: 409
-post_title: 'Presenter Bios'
+title: 'Presenter Bios'
 author: WOCATI
 excerpt: ""
 layout: article

@@ -1,6 +1,6 @@
 ---
 layout: article
-post_title: 'About'
+title: 'About'
 post_date: 2012-06-25 17:49:55
 modified: 2019-03-25T11:57:41-04:00
 author: WOCATI

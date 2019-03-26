@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /
-post_title: 'Home'
+title: 'Home'
 author: WOCATI
 excerpt: "The main goal of WOCATI is to serve the needs and aspirations of its member associations and their institutions, schools and centres. It will be through this prime focus that WOCATI will seek to serve and support theological education throughout the world. The existence of WOCATI as a global conference is seen to be a invaluable resource for all theological institutions and their associations by providing an established network and resource to facilitate the work of the member associations."
 redirect_from:: /home-2/

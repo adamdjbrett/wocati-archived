@@ -1,6 +1,6 @@
 ---
 ID: 394
-post_title: '2011 WOCATI Consultation'
+title: '2011 WOCATI Consultation'
 author: adamdjbrett
 excerpt: "At the 2011 Consultation, participants from around the globe interacted with one another in a wide variety of activities."
 layout: article

@@ -1,6 +1,6 @@
 ---
 ID: 778
-post_title: 'Publications'
+title: 'Publications'
 author: WOCATI
 excerpt: "Books, Journals, and other publications"
 layout: article

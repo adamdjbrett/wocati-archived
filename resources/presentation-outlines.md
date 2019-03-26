@@ -1,6 +1,6 @@
 ---
 ID: 401
-post_title: 'Presentation Outlines'
+title: 'Presentation Outlines'
 author: WOCATI
 excerpt: ""
 layout: article

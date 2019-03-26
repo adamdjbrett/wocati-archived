@@ -1,6 +1,6 @@
 ---
 ID: 23
-post_title: 'Contacting WOCATI'
+title: 'Contacting WOCATI'
 author: WOCATI
 excerpt: "Thank you for your interest in  the World Conference of Associations of Theological Institutions (WOCATI)."
 layout: article

@@ -1,8 +1,8 @@
 ---
-ID: 817
-post_title: 'History'
+title: 'History'
 author: adamdjbrett
-excerpt: "Please click on the bulleted item to download the PDF"
+excerpt: "The formation of the World Conference of Associations of Theological Institutions (WOCATI) was a result of several years’ preparation. Over the past
+two decades, many theological institutions have commited themselves to closer cooperation at the local, national and regional levels."
 layout: article
 permalink: /about/history/
 published: true

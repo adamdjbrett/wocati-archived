@@ -1,8 +1,7 @@
 ---
-ID: 50
-post_title: 'Executive Committee'
+title: 'Executive Committee'
 author: adamdjbrett
-excerpt: ""
+excerpt: "Executive Committee of the World Conference of Associated Theological Institutions"
 layout: article
 permalink: /about/executive/
 published: true

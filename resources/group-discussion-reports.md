@@ -1,6 +1,6 @@
 ---
 ID: 405
-post_title: 'Group Discussion Reports'
+title: 'Group Discussion Reports'
 author: adamdjbrett
 excerpt: "On Tuesday, July 5, 2011, the overall theme was What Constitutes _Quality_ in Theological Education.  In the afternoon session, the participants divided into groups and collectively identified important issues from the day’s presentations."
 layout: article
