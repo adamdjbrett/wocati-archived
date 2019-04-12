@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: "Search"
 excerpt: "Search WOCATI."
 sitemap: true
