@@ -29,6 +29,7 @@ share: false
 - [join](/members/join/)
 - [work](/work/)
   - [Challenges and Promises of Quality Assurance in Theological Education: Multicontextual and Ecumenical Inquires](/work/challenges-promises-quality-assurance-theological-education/)
+  - [⤓ Download Challenges and Promises as a PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
   - [WOCATI Newsletter](/resources/wocati-newsletter/)
   - [Ministerial Formation Journal Archive](/resources/archive/publications/ministerial-formation/)
 - [resources](/resources/)
