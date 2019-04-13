@@ -48,7 +48,7 @@ a substitute for the default [Minima](https://github.com/jekyll/minima).
 * [Bootstrap CDN](https://www.bootstrapcdn.com/)
 
 ## Modifications
-- Normally this theme uses Google Fonts. I removed the Google fonts in order to improve load time and fix some formatting issues. In order to switch [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/) I
+- Normally this theme uses Google Fonts. I removed the Google fonts in order to improve load time and fix some formatting issues. In order to switch [System Font Stack](https://css-tricks.com/snippets/css/system-font-stack/)
 
 ## Credits
 
@@ -62,6 +62,9 @@ a substitute for the default [Minima](https://github.com/jekyll/minima).
 
 ### Webmaster
 [**Adam DJ Brett**](https://github.com/adamdjbrett)
+- <https://adamdjbrett.com>
+- <https://twitter.com/adjbx>
+- <https://github.com/adamdjbrett>
 
 ### Contributors
   - Namsoon Kang
@@ -74,7 +77,6 @@ Please read [humans.txt](https://wocati.org/humans.txt) for the contributors.
 
 - [Simple Icons](https://simpleicons.org/)
 - [Noun Project](https://thenounproject.com)
-- [Unsplash](https://unsplash.com/)
 - [Font Awesome](https://fontawesome.com)
 
 ### Other:
