@@ -2,7 +2,7 @@
 ID: 375
 title: 'Participant Photos'
 author: adamdjbrett
-excerpt: ""
+excerpt: "At the 2011 Consultation, participants from around the globe interacted with one another in a wide variety of activities."
 layout: article
 permalink: /resources/2011-wocati-consultation/2011-participant-photos/
 published: true
@@ -34,3 +34,5 @@ share: false
 *   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
 *   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
 *   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)
+
+{% include lightbox.html %}
