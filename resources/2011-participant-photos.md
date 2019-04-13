@@ -14,11 +14,15 @@ share: false
 *   At the 2011 Consultation, participants from around the globe interacted with one another in a wide variety of activities. These included collective reflection sessions, group discussions, and informal gatherings at meals and tea.
 *   Special thanks to Dr. Victor Nakah for contributing these photos.
 
+{% include image-gallery.html folder="wp-content/uploads/2012/06/p" %}
+
+{% comment %}
 {% for image in site.static_files %}
   {% if image.path contains 'wp-content/uploads/2012/06/p' %}
     ![event photos]({{ image.path }})
   {% endif %}
 {% endfor %}
+{% endcomment %}
 
 
 ### 2011 key pages
