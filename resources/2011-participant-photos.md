@@ -34,5 +34,3 @@ share: false
 *   [Participant Photos](/resources/2011-wocati-consultation/2011-participant-photos/)
 *   [Presentation Outlines](/resources/2011-wocati-consultation/presentation-outlines/)
 *   [Presenter Bios](/resources/2011-wocati-consultation/presenter-bios/)
-
-{% include lightbox.html %}
