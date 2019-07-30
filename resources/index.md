@@ -57,7 +57,7 @@ share: false
 *   [ETE/WCC](http://www.oikoumene.org/en/programmes/education-and-ecumenical-formation/ecumenical-theological-education.html)
 *   [Global Digital Library on Theology and Ecumenism](http://globethics.net/gtl)
 *   [International Networks of Theological Education](http://www.globethics.net/web/gtl/theological-education "GlobeTheoLib – International Networks of Theological Education")
-*   [Jugaad: A Material Religions Project](https://jugaad.pub/)
+*   [Quotidian: A curated blog about everyday religion](https://quotidian.pub/)
 *   [NABPR](http://nabpr.org/)
 *   [Related Organizations](http://www.ats.edu/resources/related-organizations "Associations of Theological Schools (ATS) – Related Organizations")
 *   [Religion CFP](https://relcfp.tumblr.com/)
