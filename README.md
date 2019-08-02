@@ -70,7 +70,7 @@ a substitute for the default [Minima](https://github.com/jekyll/minima).
   - Namsoon Kang
   - Petros Vassiliadis
 
-Please read [humans.txt](https://www.wocati.org/humans.txt) for the contributors.
+Please read [humans.txt](humans.txt) for the contributors.
 
 
 ### Icons + Demo Images:

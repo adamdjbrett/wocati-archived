@@ -11,7 +11,7 @@ redirect_from: /resources/2011-communique/
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---
-## [![](https://www.wocati.org/wp-content/uploads/2012/06/woclog3.gif "woclog3")](https://www.wocati.org/wp-content/uploads/2012/06/woclog3.gif)WOCATI 2011 Consultation Communiqué Johannesburg, South Africa, 4 July – 8 July, 2011
+## [![](/wp-content/uploads/2012/06/woclog3.gif "woclog3")](/wp-content/uploads/2012/06/woclog3.gif)WOCATI 2011 Consultation Communiqué Johannesburg, South Africa, 4 July – 8 July, 2011
 
 
 
@@ -66,9 +66,9 @@ Drafting Committee:
 
 ## Translations
 
-*   [2011 WOCATI Communique English PDF](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique.pdf "2011 WOCATI Communique English PDF").
-*   [2011 WOCATI Consultation Communique PDF in French](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-in-French.pdf)
-*   [2011 WOCATI Consultation Communique PDF in Korean](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-Korean.pdf)
+*   [2011 WOCATI Communique English PDF](/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique.pdf "2011 WOCATI Communique English PDF").
+*   [2011 WOCATI Consultation Communique PDF in French](/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-in-French.pdf)
+*   [2011 WOCATI Consultation Communique PDF in Korean](/wp-content/uploads/2012/06/WOCATI-Consultation-2011-Communique-Korean.pdf)
 
 
 ### 2011 key pages

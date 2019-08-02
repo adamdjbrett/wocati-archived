@@ -34,6 +34,6 @@ The Awards Committee, with a term of 4 years (2014-2018) and a possibility of ex
 *   All possible ways of candidacy are welcome: self-submissions, nominations by AISR members, and nominations by the Award committee. The deadline of submission of applications is for the contest is September 1, 2015. Nominations/submissions are to be sent to [pv@theo.auth.gr](mailto:pv@theo.auth.gr)
 *   The Award committee has decided to set the following pre-established criteria for their final decision: scholarly excellence, contribution to theological or religious sciences research, promotion of the wider ecumenical cause, contribution to the inter-Christian or inter-faith dialogue, balance in terms of religious affiliation, fairness in case of eventual conflict interests.
 
-[Petros Vassiliadis](https://www.wocati.org/about/staff/)
+[Petros Vassiliadis](/about/staff/)
 
 (source:[http://www.lesacademies.org/en/aisr/aisr-awards-uk/call-for-submissions-uk](http://www.lesacademies.org/en/aisr/aisr-awards-uk/call-for-submissions-uk "http://www.lesacademies.org/en/aisr/aisr-awards-uk/call-for-submissions-uk"))

@@ -13,9 +13,9 @@ share: false
 ## _Challenging Theological Education: 20 Years of WOCATI_
 
 
-*   [&#10515; _Challenging Theological Education: 20 Years of WOCATI_, edited by: P. Vassiliadis PDF](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI_20_Years.pdf)
-*   [&#10515; 2013 - _Challenges and Promises of Quality Assurance in Theological Education_ - WOCATI PDF](https://www.wocati.org/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
-*   [&#10515;Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education PDF](https://www.wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
+*   [&#10515; _Challenging Theological Education: 20 Years of WOCATI_, edited by: P. Vassiliadis PDF](/wp-content/uploads/2012/06/WOCATI_20_Years.pdf)
+*   [&#10515; 2013 - _Challenges and Promises of Quality Assurance in Theological Education_ - WOCATI PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
+*   [&#10515;Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education PDF](/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
 
 ***
 ### About Sub-Menu

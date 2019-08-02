@@ -11,8 +11,8 @@ modified: 2019-03-25T11:57:41-04:00
 share: false
 ---
 
-[![World Conference of Associated Theological Institutions](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
+[![World Conference of Associated Theological Institutions](/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](/wp-content/uploads/2012/06/WOCATI-logo.png)
 
-[![](https://www.wocati.org/wp-content/uploads/2012/06/map-colour-layers.png "WCC - Map Colors")](https://www.wocati.org/wp-content/uploads/2012/06/map-colour-layers.png)
+[![](/wp-content/uploads/2012/06/map-colour-layers.png "WCC - Map Colors")](/wp-content/uploads/2012/06/map-colour-layers.png)
 
 The main goal of **World Conference of Associated Theological Institutions (WOCATI)** is to serve the needs and aspirations of its member associations and their institutions, schools and centres. It will be through this prime focus that _World Conference of Associated Theological Institutions (WOCATI)_ will seek to serve and support theological education throughout the world. The existence of _World Conference of Associated Theological Institutions (WOCATI)_ as a global conference is seen to be a invaluable resource for all theological institutions and their associations by providing an established network and resource to facilitate the work of the member associations.
