@@ -8,7 +8,7 @@ permalink: /work/
 image:
   feature: WOCATI_2011_Group_s-800x288.jpg
   credit: Dr. Victor Nakah
-  creditlink: https://wocati.org
+  creditlink: https://www.wocati.org
 published: true
 date: 2016-09-06 00:09:47
 modified: 2019-03-25T11:57:41-04:00
@@ -54,7 +54,7 @@ March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Chal
 * Book
   * [&#10515; Download _Challenges and Promises of Quality Assurance in Theological Education_ by WOCATI, 2013 as PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
 * Preliminary documents
-  * [&#10515;  Download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](https://wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
+  * [&#10515;  Download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](https://www.wocati.org/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
 
 ***
 ### Works Submenu

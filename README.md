@@ -1,4 +1,4 @@
-# [World Conference of Associated Theological Institutions (WOCATI)](https://wocati.org)
+# [World Conference of Associated Theological Institutions (WOCATI)](https://www.wocati.org)
 
 I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible..
 
@@ -70,7 +70,7 @@ a substitute for the default [Minima](https://github.com/jekyll/minima).
   - Namsoon Kang
   - Petros Vassiliadis
 
-Please read [humans.txt](https://wocati.org/humans.txt) for the contributors.
+Please read [humans.txt](https://www.wocati.org/humans.txt) for the contributors.
 
 
 ### Icons + Demo Images:

@@ -9,7 +9,7 @@ date: 2012-06-19 22:12:05
 modified: 2019-03-25T11:57:41-04:00
 share: false
 ---
-[![World Conference of Associated Theological Institutions](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
+[![World Conference of Associated Theological Institutions](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png "WOCATI logo")](https://www.wocati.org/wp-content/uploads/2012/06/WOCATI-logo.png)
 
 ## EXECUTIVE OFFICERS
 
@@ -22,11 +22,11 @@ share: false
 - [academia.edu](http://auth.academia.edu/PetrosVassiliadis)
 
 
-[![](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg "Nestor Miguez WOCATI, Vice President")](https://wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg)
+[![](https://www.wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg "Nestor Miguez WOCATI, Vice President")](https://www.wocati.org/wp-content/uploads/2012/06/Nestor-Miguez-120x140.jpg)
 
 ### **VICE PRESIDENT/LATIN AMERICA** Prof. Dr. Nestor Oscar Miguez, _(CETELA)_ Phone: +54-11-44690786 email:cetela@est.edu.br    
 
-[![](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png "James Amanze, WOCATI Secretary/Treasurer")](https://wocati.org/wp-content/uploads/2012/06/James_Amanze.png)
+[![](https://www.wocati.org/wp-content/uploads/2012/06/James_Amanze.png "James Amanze, WOCATI Secretary/Treasurer")](https://www.wocati.org/wp-content/uploads/2012/06/James_Amanze.png)
 
 ### **SECRETARY/AFRICA** Prof. Dr. James Nathaniel Amanze, _(ATISCA)_ 267-355 2632 amanzejn@mopipi.ub.bw
 
@@ -35,7 +35,7 @@ share: false
 
 ### **AFRICA**
 
-[![](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg "Isabel Apawo Phiri, WOCATI Executive")](https://wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg)
+[![](https://www.wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg "Isabel Apawo Phiri, WOCATI Executive")](https://www.wocati.org/wp-content/uploads/2012/06/Isabel-Apawo-Phiri-120x110.jpg)
 
 Prof. Dr. Isabel Apawo Phiri _(CIRCLE)_ +0027 33 260 6132 PhiriI@ukzn.ac.za
 
@@ -43,7 +43,7 @@ Prof. Dr. Isabel Apawo Phiri _(CIRCLE)_ +0027 33 260 6132 PhiriI@ukzn.ac.za
 
 ### **ASIA**
 
-[![](https://wocati.org/wp-content/uploads/2012/06/James-Massey-120x162.jpg "James Massey, WOCATI")](https://wocati.org/wp-content/uploads/2012/06/James-Massey-120x162.jpg)
+[![](https://www.wocati.org/wp-content/uploads/2012/06/James-Massey-120x162.jpg "James Massey, WOCATI")](https://www.wocati.org/wp-content/uploads/2012/06/James-Massey-120x162.jpg)
 
 Prof. Dr. James Massey, _(BTESSC)_ Phone: +91 33 26622692 Email: srsenate@cal2.vsnl.net.in
 
@@ -51,7 +51,7 @@ Prof. Dr. James Massey, _(BTESSC)_ Phone: +91 33 26622692 Email: srsenate@cal2.v
 
 #### **EASTERN EUROPE**
 
-[![](https://wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg "Ivan Dimitrov 120x180")](https://wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg)
+[![](https://www.wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg "Ivan Dimitrov 120x180")](https://www.wocati.org/wp-content/uploads/2012/06/Ivan-Dimitrov-120x180.jpg)
 
 Prof. Dr. Ivan Zhelev Dimitrov Phone: +3592/9890115 (22) Email: ivand@theo.uni-sofia.bg
 

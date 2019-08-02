@@ -79,7 +79,7 @@ Let me conclude by suggesting several tasks for WOCATI and theological education
 
 ## English Language PDF's
 
-[&#10515; WOCATI Consultation closing report by Isabel A. Phiri](https://wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](https://wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.
+[&#10515; WOCATI Consultation closing report by Isabel A. Phiri](https://www.wocati.org/wp-content/uploads/2012/06/Phiri-WOCATI-Consultation-closing-report-IA-Phiri.pdf) [Listener's Report Presentation By Lester J. Ruiz,](https://www.wocati.org/wp-content/uploads/2012/06/Ruiz-Listeners-report-text-presentation.pdf) 2011.
 
 
 ### 2011 key pages

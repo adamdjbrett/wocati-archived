@@ -11,7 +11,7 @@ modified: 2019-03-25T11:57:41-04:00
 share: false
 ---
 
-[![wocati](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://wocati.org/wp-content/uploads/2012/06/wocati.jpg)
+[![wocati](https://www.wocati.org/wp-content/uploads/2012/06/wocati.jpg)](https://www.wocati.org/wp-content/uploads/2012/06/wocati.jpg)
 
 ### Full World Conference of Associations of Theological Institutions (WOCATI) Resources
 
@@ -45,8 +45,8 @@ share: false
     - [2011 communique](/resources/2011-communique/)
     - [2011 participant photos](/resources/2011-participant-photos/)
     - [daily wrap-up reports](/resources/daily-wrap-up-reports/)
-    - [WOCATI Archive](https://wocati.org/resources/archive/)
-    - [WOCATI Publications](https://wocati.org/resources/archive/publications/)
+    - [WOCATI Archive](https://www.wocati.org/resources/archive/)
+    - [WOCATI Publications](https://www.wocati.org/resources/archive/publications/)
 
 
 
