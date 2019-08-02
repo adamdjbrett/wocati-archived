@@ -5,7 +5,7 @@ description: "World Conference of Associated Theological Institutions (WOCATI) i
 logo: /images/international-120x120.png
 teaser: teaser.png
 locale: en
-url: https://wocati.org
+url: https://www.wocati.org
 feed:
   path: atom.xml
 
