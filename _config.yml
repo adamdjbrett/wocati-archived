@@ -59,6 +59,7 @@ defaults:
 
 include:
   - .htaccess
+  - _redirects
 exclude:
   - "*.less"
   - "*.sublime-project"
