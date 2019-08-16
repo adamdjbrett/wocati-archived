@@ -63,7 +63,7 @@ a substitute for the default [Minima](https://github.com/jekyll/minima).
 ### Webmaster
 [**Adam DJ Brett**](https://github.com/adamdjbrett)
 - <https://adamdjbrett.com>
-- <https://twitter.com/adjbx>
+- <https://twitter.com/__adjb>
 - <https://github.com/adamdjbrett>
 
 ### Contributors
