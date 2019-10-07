@@ -11,6 +11,7 @@ modified: 2019-03-25T11:57:41-04:00
 redirect_from:
   - /9780615770888/
   - /challenges/
+  - /challenges
 image:
   feature: book-cover2.jpg
   credit: Rob Lee
