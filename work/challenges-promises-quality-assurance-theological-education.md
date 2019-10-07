@@ -8,7 +8,9 @@ permalink: /work/challenges-promises-quality-assurance-theological-education/
 published: true
 date: 2016-09-05 23:58:32
 modified: 2019-03-25T11:57:41-04:00
-redirect_from: /9780615770888/
+redirect_from:
+  - /9780615770888/
+  - /challenges/
 image:
   feature: book-cover2.jpg
   credit: Rob Lee
