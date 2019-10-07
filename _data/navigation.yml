@@ -6,14 +6,14 @@
 - title: Members
   url: /members/
 
-- title: Resources
-  url: /resources/
-
 - title: Work
   url: /work/
 
-- title: Search
-  url: /search/
+- title: Resources
+  url: /resources/
 
 - title: Archive
   url: /resources/archive/
+
+- title: Search
+  url: /search/

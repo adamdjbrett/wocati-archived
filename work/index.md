@@ -55,8 +55,3 @@ March 9, 2013 Members of WOCATI published a groundbreaking book entitled [_Chal
   * [&#10515; Download _Challenges and Promises of Quality Assurance in Theological Education_ by WOCATI, 2013 as PDF](/wp-content/uploads/2013/03/2013-Challenges-and-Promises-of-Quality-Assurance-in-Theological-Education-WOCATI.pdf)
 * Preliminary documents
   * [&#10515;  Download Challenges and Opportunities in Theological Education in the 21st Century- Prospects for a New International Debate on Theological Education](/wp-content/uploads/2012/12/Challenges-and-Opportunities-in-Theological-Education-in-the-21st-Century-Prospects-for-a-New-International-Debate-on-Theological-Education.pdf)
-
-***
-### Works Submenu
-#### [work](/work/)
-#### [Challenges and Promises of Quality Assurance in Theological Education](/work/challenges-promises-quality-assurance-theological-education/)
