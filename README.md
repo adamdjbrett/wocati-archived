@@ -1,3 +1,6 @@
+# This repository has been archived and marked as read only.
+Please visit [the new repository](https://github.com/adamdjbrett/wocati-new)
+  
 # [World Conference of Associated Theological Institutions (WOCATI)](https://www.wocati.org)
 
 I have become frustrated with how slow and limited in accessibility WordPress is so I decided to start moving sites I administer over to [Jekyll](http://jekyllrb.com) because as static site generator it is faster, more reliable and I have more control over making it accessible..
